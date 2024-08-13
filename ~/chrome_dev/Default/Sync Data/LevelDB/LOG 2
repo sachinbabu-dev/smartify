@@ -1,0 +1,6 @@
+2024/08/09-22:19:47.558 a707 Reusing MANIFEST /Users/sachinbabu.dev/Desktop/my-react-app/~/chrome_dev/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/08/09-22:19:47.567 a707 Recovering log #4
+2024/08/09-22:19:47.568 a707 Reusing old log /Users/sachinbabu.dev/Desktop/my-react-app/~/chrome_dev/Default/Sync Data/LevelDB/000004.log 
+2024/08/09-22:19:52.393 a707 Level-0 table #8: started
+2024/08/09-22:19:52.396 a707 Level-0 table #8: 100155 bytes OK
+2024/08/09-22:19:52.398 a707 Delete type=0 #4
