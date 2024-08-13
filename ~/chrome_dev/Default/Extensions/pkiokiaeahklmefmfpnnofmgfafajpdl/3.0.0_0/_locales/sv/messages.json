@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Lätt att kontrollera, hitta det typsnitt som används på vilken webbplats som helst"
+   },
+   "app_name": {
+      "message": "Hitta teckensnitt"
+   },
+   "browser_action": {
+      "message": "Klicka en gång för att aktivera inspektören och flytta sedan musen över elementet. Klicka på ESC-tangenten för att frigöra inspektören"
+   },
+   "context_copy": {
+      "message": "Kopiera teckensnittdetaljer"
+   },
+   "context_embed_mode": {
+      "message": "Öppna i inbäddat läge"
+   },
+   "context_find": {
+      "message": "Hitta teckensnitt i den här ramen"
+   },
+   "context_page": {
+      "message": "Inspektera teckensnitt"
+   },
+   "context_replace": {
+      "message": "Byt ut teckensnitt med"
+   },
+   "context_selection": {
+      "message": "Analysera val"
+   },
+   "context_window_mode": {
+      "message": "Öppna i fönsterläge"
+   },
+   "options_copy": {
+      "message": "Visa 'Kopiera teckensnittdetaljer' -kontextmenyobjekt"
+   },
+   "options_faqs": {
+      "message": "Öppna Vanliga frågor om uppdateringar"
+   },
+   "options_find": {
+      "message": "Visa 'Hitta teckensnitt i den här ramen' kontextmenyobjekt"
+   },
+   "options_page": {
+      "message": "Visa \"Inspektera teckensnitt\" -kontextmenyobjekt"
+   },
+   "options_reload": {
+      "message": "Ladda om"
+   },
+   "options_replace": {
+      "message": "Visa \"Byt teckensnitt med\" kontextmenyobjekt"
+   },
+   "options_reset": {
+      "message": "Fabriksåterställning"
+   },
+   "options_save": {
+      "message": "Spara alternativ"
+   },
+   "options_selection": {
+      "message": "Visa kontextmenyobjekt 'Analysera val'"
+   },
+   "options_support": {
+      "message": "Stödutveckling"
+   },
+   "window_class": {
+      "message": "Elementklass:"
+   },
+   "window_color": {
+      "message": "Färg"
+   },
+   "window_decoration": {
+      "message": "Dekoration / transformation"
+   },
+   "window_element": {
+      "message": "Elementdetaljer"
+   },
+   "window_font": {
+      "message": "Font"
+   },
+   "window_id": {
+      "message": "Element ID:"
+   },
+   "window_inspect": {
+      "message": "inspektera:"
+   },
+   "window_rendered": {
+      "message": "Teckensnitt som återges:"
+   },
+   "window_spacing": {
+      "message": "Mellanrum"
+   },
+   "window_title": {
+      "message": "Inspektör :: Font Finder"
+   },
+   "window_type": {
+      "message": "Elementtyp:"
+   }
+}

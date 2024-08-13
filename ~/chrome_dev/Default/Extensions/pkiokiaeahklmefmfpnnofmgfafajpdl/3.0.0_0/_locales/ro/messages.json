@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Ușor de verificat, găsiți numele de font folosit pe orice site web"
+   },
+   "app_name": {
+      "message": "Găsiți font"
+   },
+   "browser_action": {
+      "message": "Faceți clic o dată pentru a activa inspectorul, apoi mutați mouse-ul peste element. Faceți clic pe tasta ESC pentru a elibera inspectorul"
+   },
+   "context_copy": {
+      "message": "Copiați detalii de font"
+   },
+   "context_embed_mode": {
+      "message": "Deschideți în modul încorporat"
+   },
+   "context_find": {
+      "message": "Găsiți fonturi în acest cadru"
+   },
+   "context_page": {
+      "message": "Inspectați fontul"
+   },
+   "context_replace": {
+      "message": "Înlocuiți fontul cu"
+   },
+   "context_selection": {
+      "message": "Analizați selecția"
+   },
+   "context_window_mode": {
+      "message": "Deschideți în modul Fereastră"
+   },
+   "options_copy": {
+      "message": "Afișați meniul contextual „Copiați detalii despre font”"
+   },
+   "options_faqs": {
+      "message": "Deschideți pagina cu întrebări frecvente despre actualizări"
+   },
+   "options_find": {
+      "message": "Afișați „Găsiți fonturi în acest cadru” element din meniul contextual"
+   },
+   "options_page": {
+      "message": "Afișați meniul contextual „Inspectați fontul”"
+   },
+   "options_reload": {
+      "message": "Reîncarcă"
+   },
+   "options_replace": {
+      "message": "Afișați „Înlocuiți fontul cu” meniul contextual"
+   },
+   "options_reset": {
+      "message": "Resetare din fabrică"
+   },
+   "options_save": {
+      "message": "Opțiuni de salvare"
+   },
+   "options_selection": {
+      "message": "Afișați meniul contextual „Analizați selecția”"
+   },
+   "options_support": {
+      "message": "Dezvoltare de sprijin"
+   },
+   "window_class": {
+      "message": "Clasa de elemente:"
+   },
+   "window_color": {
+      "message": "Culoare"
+   },
+   "window_decoration": {
+      "message": "Decorare / Transformare"
+   },
+   "window_element": {
+      "message": "Detalii despre element"
+   },
+   "window_font": {
+      "message": "Font"
+   },
+   "window_id": {
+      "message": "ID element:"
+   },
+   "window_inspect": {
+      "message": "Inspectarea:"
+   },
+   "window_rendered": {
+      "message": "Fontul este redat:"
+   },
+   "window_spacing": {
+      "message": "Spațiere"
+   },
+   "window_title": {
+      "message": "Inspector :: Căutătorul de fonturi"
+   },
+   "window_type": {
+      "message": "Tip de element:"
+   }
+}

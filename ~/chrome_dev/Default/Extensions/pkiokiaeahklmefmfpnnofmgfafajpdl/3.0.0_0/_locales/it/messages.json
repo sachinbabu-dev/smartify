@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Facile da controllare, trova il nome del carattere utilizzato su qualsiasi sito Web"
+   },
+   "app_name": {
+      "message": "Trova carattere"
+   },
+   "browser_action": {
+      "message": "Fai clic una volta per abilitare Inspector, quindi sposta il mouse sull'elemento. Fai clic sul tasto ESC per rilasciare la finestra di ispezione"
+   },
+   "context_copy": {
+      "message": "Copia dettagli carattere"
+   },
+   "context_embed_mode": {
+      "message": "Apri in modalità integrata"
+   },
+   "context_find": {
+      "message": "Trova caratteri in questa cornice"
+   },
+   "context_page": {
+      "message": "Ispeziona carattere"
+   },
+   "context_replace": {
+      "message": "Sostituisci carattere con"
+   },
+   "context_selection": {
+      "message": "Analizza selezione"
+   },
+   "context_window_mode": {
+      "message": "Apri in modalità Finestra"
+   },
+   "options_copy": {
+      "message": "Mostra la voce di menu contestuale \"Copia dettagli carattere\""
+   },
+   "options_faqs": {
+      "message": "Apri la pagina Domande frequenti sugli aggiornamenti"
+   },
+   "options_find": {
+      "message": "Mostra la voce di menu contestuale \"Trova caratteri in questo riquadro\""
+   },
+   "options_page": {
+      "message": "Mostra la voce del menu contestuale \"Ispeziona carattere\""
+   },
+   "options_reload": {
+      "message": "Ricaricare"
+   },
+   "options_replace": {
+      "message": "Mostra la voce di menu contestuale \"Sostituisci carattere con\""
+   },
+   "options_reset": {
+      "message": "Ripristino delle impostazioni di fabbrica"
+   },
+   "options_save": {
+      "message": "Salva opzioni"
+   },
+   "options_selection": {
+      "message": "Mostra la voce del menu contestuale \"Analizza selezione\""
+   },
+   "options_support": {
+      "message": "Supportare lo sviluppo"
+   },
+   "window_class": {
+      "message": "Classe di elementi:"
+   },
+   "window_color": {
+      "message": "Colore"
+   },
+   "window_decoration": {
+      "message": "Decorazione / Trasformazione"
+   },
+   "window_element": {
+      "message": "Dettagli elemento"
+   },
+   "window_font": {
+      "message": "Font"
+   },
+   "window_id": {
+      "message": "ID elemento:"
+   },
+   "window_inspect": {
+      "message": "Controllo:"
+   },
+   "window_rendered": {
+      "message": "Carattere reso:"
+   },
+   "window_spacing": {
+      "message": "Spaziatura"
+   },
+   "window_title": {
+      "message": "Inspector :: Font Finder"
+   },
+   "window_type": {
+      "message": "Tipo di elemento:"
+   }
+}

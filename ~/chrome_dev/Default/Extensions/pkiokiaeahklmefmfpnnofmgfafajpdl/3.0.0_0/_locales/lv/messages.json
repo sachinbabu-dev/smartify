@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Ērti pārbaudiet, atrodiet fonta nosaukumu, ko izmanto jebkurā vietnē"
+   },
+   "app_name": {
+      "message": "Atrast fontu"
+   },
+   "browser_action": {
+      "message": "Vienreiz noklikšķiniet, lai iespējotu inspektoru, pēc tam pārvietojiet peli virs elementa. Noklikšķiniet uz ESC taustiņa, lai atbrīvotu inspektoru"
+   },
+   "context_copy": {
+      "message": "Kopēt fonta informāciju"
+   },
+   "context_embed_mode": {
+      "message": "Atvērt iegultā režīmā"
+   },
+   "context_find": {
+      "message": "Atrodiet fontus šajā rāmī"
+   },
+   "context_page": {
+      "message": "Pārbaudiet fontu"
+   },
+   "context_replace": {
+      "message": "Aizstāt fontu ar"
+   },
+   "context_selection": {
+      "message": "Analizēt atlasi"
+   },
+   "context_window_mode": {
+      "message": "Atvērt režīmā Window"
+   },
+   "options_copy": {
+      "message": "Rādīt konteksta izvēlnes vienumu “Kopēt fonta informāciju”"
+   },
+   "options_faqs": {
+      "message": "Atjauninājumu lapā atveriet bieži uzdoto jautājumu lapu"
+   },
+   "options_find": {
+      "message": "Rādīt konteksta izvēlnes vienumu “Atrast fontus šajā kadrā”"
+   },
+   "options_page": {
+      "message": "Rādīt konteksta izvēlnes vienumu “Pārbaudīt fontu”"
+   },
+   "options_reload": {
+      "message": "Pārlādēt"
+   },
+   "options_replace": {
+      "message": "Rādīt konteksta izvēlnes vienumu “Aizstāt fontu ar”"
+   },
+   "options_reset": {
+      "message": "Rūpnīcas režīma iestatīšana"
+   },
+   "options_save": {
+      "message": "Saglabāt opcijas"
+   },
+   "options_selection": {
+      "message": "Rādīt konteksta izvēlnes vienumu “Analizēt atlasi”"
+   },
+   "options_support": {
+      "message": "Atbalsta attīstība"
+   },
+   "window_class": {
+      "message": "Elementu klase:"
+   },
+   "window_color": {
+      "message": "krāsa"
+   },
+   "window_decoration": {
+      "message": "Apdare / Pārveidošana"
+   },
+   "window_element": {
+      "message": "Informācija par elementu"
+   },
+   "window_font": {
+      "message": "Fonts"
+   },
+   "window_id": {
+      "message": "Elementa ID:"
+   },
+   "window_inspect": {
+      "message": "Pārbauda:"
+   },
+   "window_rendered": {
+      "message": "Renderētais fonts:"
+   },
+   "window_spacing": {
+      "message": "Atstarpes"
+   },
+   "window_title": {
+      "message": "Inspektors :: Fontu meklētājs"
+   },
+   "window_type": {
+      "message": "Elementa tips:"
+   }
+}

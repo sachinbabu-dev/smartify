@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "ง่ายต่อการตรวจสอบค้นหาชื่อแบบอักษรที่ใช้บนเว็บไซต์ใด ๆ"
+   },
+   "app_name": {
+      "message": "ค้นหาแบบอักษร"
+   },
+   "browser_action": {
+      "message": "คลิกหนึ่งครั้งเพื่อเปิดใช้งานตัวตรวจสอบจากนั้นเลื่อนเมาส์ไปที่องค์ประกอบ คลิกปุ่ม ESC เพื่อปล่อยผู้ตรวจสอบ"
+   },
+   "context_copy": {
+      "message": "คัดลอกรายละเอียดตัวอักษร"
+   },
+   "context_embed_mode": {
+      "message": "เปิดในโหมดฝังตัว"
+   },
+   "context_find": {
+      "message": "ค้นหาแบบอักษรในเฟรมนี้"
+   },
+   "context_page": {
+      "message": "ตรวจสอบแบบอักษร"
+   },
+   "context_replace": {
+      "message": "แทนที่แบบอักษรด้วย"
+   },
+   "context_selection": {
+      "message": "วิเคราะห์การเลือก"
+   },
+   "context_window_mode": {
+      "message": "เปิดในโหมด Window"
+   },
+   "options_copy": {
+      "message": "แสดงรายการเมนูบริบท 'คัดลอกรายละเอียดฟอนต์'"
+   },
+   "options_faqs": {
+      "message": "เปิดหน้าคำถามที่พบบ่อยเกี่ยวกับการปรับปรุง"
+   },
+   "options_find": {
+      "message": "แสดง 'ค้นหาแบบอักษรในกรอบนี้' รายการเมนูบริบท"
+   },
+   "options_page": {
+      "message": "แสดงรายการเมนูบริบท 'ตรวจสอบแบบอักษร'"
+   },
+   "options_reload": {
+      "message": "โหลด"
+   },
+   "options_replace": {
+      "message": "แสดง 'แทนที่แบบอักษรด้วย' รายการเมนูบริบท"
+   },
+   "options_reset": {
+      "message": "รีเซ็ตเป็นค่าจากโรงงาน"
+   },
+   "options_save": {
+      "message": "บันทึกตัวเลือก"
+   },
+   "options_selection": {
+      "message": "แสดงรายการเมนูบริบท 'วิเคราะห์การเลือก'"
+   },
+   "options_support": {
+      "message": "สนับสนุนการพัฒนา"
+   },
+   "window_class": {
+      "message": "ชั้นองค์ประกอบ:"
+   },
+   "window_color": {
+      "message": "สี"
+   },
+   "window_decoration": {
+      "message": "การตกแต่ง / การเปลี่ยนแปลง"
+   },
+   "window_element": {
+      "message": "รายละเอียดองค์ประกอบ"
+   },
+   "window_font": {
+      "message": "ตัวอักษร"
+   },
+   "window_id": {
+      "message": "ID องค์ประกอบ:"
+   },
+   "window_inspect": {
+      "message": "การตรวจสอบ:"
+   },
+   "window_rendered": {
+      "message": "การแสดงผลแบบอักษร:"
+   },
+   "window_spacing": {
+      "message": "การเว้นวรรค"
+   },
+   "window_title": {
+      "message": "ตัวตรวจสอบ :: ตัวค้นหาแบบอักษร"
+   },
+   "window_type": {
+      "message": "ประเภทองค์ประกอบ:"
+   }
+}

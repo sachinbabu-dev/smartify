@@ -1,0 +1,218 @@
+{
+   "checksum": "36fc019d18a4e5248ecac03bce4fabd3",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13351028222210856",
+               "date_last_used": "0",
+               "guid": "7e65e63c-9520-4154-9997-e08c43093c19",
+               "id": "6",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "@freelancemvp | Link Space",
+               "type": "url",
+               "url": "https://link.space/@freelancemvp"
+            }, {
+               "date_added": "13352026334751437",
+               "date_last_used": "0",
+               "guid": "4abff753-fd8a-4e86-857a-640d017bad27",
+               "id": "7",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Portfolio | Sachin Babu",
+               "type": "url",
+               "url": "http://localhost:3000/"
+            }, {
+               "date_added": "13352305187171238",
+               "date_last_used": "0",
+               "guid": "cd5d016d-9812-4785-896d-3f47d7862932",
+               "id": "8",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Tailwind CSS Website Tutorial",
+               "type": "url",
+               "url": "https://chat.openai.com/c/548c41fa-5059-4e65-b088-ddc7210d609b"
+            }, {
+               "date_added": "13352330588919024",
+               "date_last_used": "0",
+               "guid": "5f5a002e-b015-4611-a84c-47460b22f14a",
+               "id": "9",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Tailwind CSS Cheat Sheet",
+               "type": "url",
+               "url": "https://tailwindcomponents.com/cheatsheet/"
+            }, {
+               "date_added": "13352333397033282",
+               "date_last_used": "0",
+               "guid": "7a2ab8e3-b842-4fa5-9f6b-dae6ee27efec",
+               "id": "10",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Fancy Border Radius Generator",
+               "type": "url",
+               "url": "https://9elements.github.io/fancy-border-radius/"
+            } ],
+            "date_added": "13351028247240736",
+            "date_last_used": "0",
+            "date_modified": "13352333397033282",
+            "guid": "09baa475-24c0-4d71-932e-b7ded7d8d790",
+            "id": "5",
+            "name": "UpWork",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13355437367093862",
+               "date_last_used": "0",
+               "guid": "1a7dfcbc-17bd-4cb6-b316-fa85669b0aed",
+               "id": "12",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "yasingencnet/webkit: This is Yasin Genc's portfolio. Built with Vercel, Next.js, GSAP, and GitHub.",
+               "type": "url",
+               "url": "https://github.com/yasingencnet/webkit"
+            }, {
+               "date_added": "13355437390186451",
+               "date_last_used": "0",
+               "guid": "1753c348-7e43-4aec-816d-d1900c48ab8f",
+               "id": "13",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Dennis Snellenberg • Freelance Designer & Developer",
+               "type": "url",
+               "url": "https://dennissnellenberg.com/"
+            }, {
+               "date_added": "13355437402243140",
+               "date_last_used": "0",
+               "guid": "8589e806-9d75-4c2f-9751-1cddee585fb7",
+               "id": "14",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Yasin Genc - Front-End Developer",
+               "type": "url",
+               "url": "https://yasingenc.net/"
+            }, {
+               "date_added": "13357075137719298",
+               "date_last_used": "0",
+               "guid": "1ebe7020-7816-4e19-a4ce-b95b4afd9f43",
+               "id": "15",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "25 Cool Website Animation Examples and Effects for Inspiration",
+               "type": "url",
+               "url": "https://www.svgator.com/blog/website-animation-examples-and-effects/#3-morphing-animation-effects"
+            }, {
+               "date_added": "13359969565370192",
+               "date_last_used": "0",
+               "guid": "3318e1d5-cd6b-4be0-9cec-fa88a3d22af6",
+               "id": "16",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Akamai",
+               "type": "url",
+               "url": "https://akamaicareers.inflightcloud.com/jobdetails/aka_ext/033770?section=aka_ext&job=033770"
+            }, {
+               "date_added": "13360102087331676",
+               "date_last_used": "0",
+               "guid": "e0db3bc7-6876-4e1b-98ad-5a40647c248e",
+               "id": "17",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "JavaScript Engine and Runtime Explained",
+               "type": "url",
+               "url": "https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/"
+            } ],
+            "date_added": "13355436871576179",
+            "date_last_used": "0",
+            "date_modified": "13360102087331676",
+            "guid": "3af26650-68d4-4ee6-ac16-5872ba23991a",
+            "id": "11",
+            "name": "Portfolio",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13358075183784019",
+               "date_last_used": "13359377916658455",
+               "guid": "c45d3129-240c-4021-8571-f24eae699899",
+               "id": "19",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Dappgenie Development - Backlog - Jira",
+               "type": "url",
+               "url": "https://dappgenie.atlassian.net/jira/software/projects/GENIE/boards/1/backlog"
+            }, {
+               "date_added": "13358075740556640",
+               "date_last_used": "13360183798568761",
+               "guid": "c558cbdb-b30e-4f9f-b1b0-fcf8f1d6039e",
+               "id": "20",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "easy-gigs - Overview - Firebase console",
+               "type": "url",
+               "url": "https://console.firebase.google.com/u/6/project/easy-gigs-6252d/overview"
+            }, {
+               "date_added": "13359399234425711",
+               "date_last_used": "13364843777901536",
+               "guid": "8cf43c35-0c0c-47cb-a1fc-d57572932843",
+               "id": "21",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Sachin Time Tracker - Google Sheets",
+               "type": "url",
+               "url": "https://docs.google.com/spreadsheets/u/6/d/1q5gaTl6FToKrOMc5Z69bAUb1O_YfhXuJA8WoAfA7y2A/edit#gid=0"
+            } ],
+            "date_added": "13358075171996639",
+            "date_last_used": "0",
+            "date_modified": "13359399234425711",
+            "guid": "da412355-0d17-49e2-858c-9cfce266fe99",
+            "id": "18",
+            "name": "dappgenie",
+            "type": "folder"
+         } ],
+         "date_added": "13367695375086461",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks Bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13367695375086462",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other Bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13367695375086463",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile Bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CpgCCvcBCIiBAhLwASAAkgHqAQqgAQoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJ1Tpv2EIfBgAR1Tpv2EIfBgAiNAmC3FHYQh8GABADGfUHQh9nTAGGIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAmC3FHYQh8GABADGfUHQh9nTAGGIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEpSMdw2EIfBgAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgkAZn3SQh8GABEAZn3SQh8GAClVTm/YQh8GADCAzPWTreiHAxIAKhhnRkNlU0h3d0crS3p5V1k1TU9rOUNRPT1IAxLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnhYNXFvTjBRZFMxNEZwbUY2bHErOXZmbEZLRTRjd09POWRsV0FaelI0Mmlkc3BtaVdtY3d3aVo5Ry9zVTNmQjAyVmxiN01JVWRrd0dDeG5MSGpSRVJQbkgzV3VBPT0YACAAKAAwgrnHwq3ohwM4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnlJQ0RGVlRNaUVFc0hNZERTN3IwRG42cWhCaXpiWExlYjFxYXJFV0NoQ2F6WjQvK1l3dEwxV1NSd1htWHBQTTY2cHhIc3JjWU5ldWtQWDBhamZoakoxZ1RsbFJnPT0YACAAKAAwgrnHwq3ohwM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABLsAQgUEucBChxHTytBYlVQa0ZQVk52VkZoeGRQR25ESGc1Smc9EmZaOkFEcXRBWnlvRnUxc1hCa0VJbDJ0eXNoODFvbkJSNHpVc01hd3lsYnA0QlNPNkpuUW02ZjFoaGhQbkVkV2JqbkpGZzNIVFdsK2RoNmVJRzdxS1kxSkt2aUthb0hlbGtpNzNnPT0YACAAKAAw3cjYw7GkhgM4jbOW1e8xQI2zltXvMUoccVdnc3pyYWgvMDRSbDZGM2dSMVhUNWlWdENBPVofIh2gNk5QQnVtQVhZU2lQZXpxTDRLRnFJNGVOV1hjPWXzahHJEusBCBMS5gEKHERxYi9Ed3l5eUNYMUhkaXNsTFJSZ2cyL1Y1dz0SZlo6QURxdEFaeW9GdTFzWEJrRUlsMnR5c2g4MW9uQldjbDNTUVpDMUt0UmpRVE40OVJ6R0c1V0V4WjAyT3BTcE43Tkk5Y1JDWnA5ZEpvQWhFZnZDbzJFNkFXT3dtMDVQMjNoWmc9PRgAIAAoADDOhJe3pPaFAziotfTU7zFAqLX01O8xShxWS1A4dUNHWlYvZzR3dXE4U2txc25yVFlnY2c9Wh4iHEFlcVZNc043RDdJdFFnNE9ZU29OOVl0YmdIND1ljTMvMRLrAQgSEuYBChxRSlNKUUFBK2tMbVlKSG5SdmJBcVVlbmF2cWc9EmZaOkFEcXRBWnlvRnUxc1hCa0VJbDJ0eXNoODFvbkJ1Y2Z1VGpBVS84TEl2SWlxcDA3SDdpdktoYktDQm5GWDg5bFQ2VFZtRUZVZTNlYTN5SWllMll3L1FaeUx1R0hobkI2b2tnPT0YACAAKAAw0uf4qK/QhQM4n9nz1O8xQJ/Z89TvMUocdTBwMHp1cVo4SEVKZkZ5VUROR3ZkRDU4Z1Z3PVoeIhxuYmpiRC9FUjRwTllBNUpxbWFDRCs2U2FSdkE9ZQAAAAAS6wEIDBLmAQocVGZSbEZGcm91S1F5dm10N2lKRkkrMTA1NnRFPRJmWjpBRHF0QVp5b0Z1MXNYQmtFSWwydHlzaDgxb25Ca01rTEQvTzJOZ1YxaDBVTktZdVRtck5lRHArcDZMd0x5TXNRRFNDTU9pVE1XNDZSNHhiSVV5dkxiMStjWVFpb201cDJ6Zz09GAAgACgAMO3vpOLMg4UDOLjujOvlMUC47ozr5TFKHHJTdXJ0OUhvSWZYN3VPSlVEMkFvTmRKcWdnOD1aHiIcQXNQOWJBdllKSXRsNlhIUmZDVGdNUUV5Y3Z3PWXApSi6EusBCA4S5gEKHEJrQTRlRklWMG9LZHhSTzc5czU5OFduSzBzUT0SZlo6QURxdEFaeW9GdTFzWEJrRUlsMnR5c2g4MW9uQlEwck9pWUJtd3lkcUFQaDZiRFNwZDMxWlFUMVg0eE5mR2RKYjRnR3gvdWxWVExxNG95bnd6Y2hHczhybW10d3BJZFV3bWc9PRgAIAAoADCPoKHuzIOFAziDgY/r5TFAg4GP6+UxShxPOHBoTUhwOEh1eWc2V3BvUGNwam44TldzMW89Wh4iHHN6UmRoWFY3bksza2ZIZVVLcDRPMUlpem5Pbz1lKc1TWhLsAQgREucBChxuZnF3RlFFS3BrZFdtRXFMVXBhWE1oRHQzVjQ9EmZaOkFEcXRBWnlvRnUxc1hCa0VJbDJ0eXNoODFvbkI5T2tDUGpZVWNiNDBNTzFoOUpyai9hb3BzQS9xRmx4M2MxU0Y2U3BITFQ3R1hyMzE3TW9hV1EzUC9GWHlDcFVKT3BYczZRPT0YACAAKAAwg6vBla6LhgM4puW0m/cxQKbltJv3MUocR0tTeThHak5qMDFDdkRNcFBpSkZnaXFELzRnPVofIh3uQnl2cVFqSVY3WFNaVjgxeFZLNFY4d1BTay9zPWXlILFeEusBCAYS5gEKHHgxR2FKY2RsZVloS3lPSWZhVFkrVDJENnpxaz0SZlo6QURxdEFaeW9GdTFzWEJrRUlsMnR5c2g4MW9uQjEydE1GaHlxNGx4TG5Za3RRMEV3aVAxbEp2QytiVWJpcE1kc2o2b0E2cnRjdDRXZDRsQnFJYnJtNjhvYnNzVmR4d0hadEE9PRgAIAAoADDGt/DAo4OEAziEgtS01TFAhILUtNUxShx4eFhYc3hYcFgxeDgzanhPUEhldWxhOS9Pakk9Wh4iHE40VjQxZDlySmEvWFFLdUY5d3dYbFdsVWh2QT1lX6j/XxLrAQgNEuYBChxTOG12YjRyVEJTR1pxcXpiSTh6TWl4YVlWak09EmZaOkFEcXRBWnlvRnUxc1hCa0VJbDJ0eXNoODFvbkJQb2c3eldEZmdLaXUrVmNoNUFQNHNxRHc2S0gzUi9aTSs0NkdrUGIvclBVTkQ0cDZyRU42NmJMVHRzL1N6Sm9CQ2N1VVNnPT0YACAAKAAw0Yjx58yDhQM46qKO6+UxQOqijuvlMUocUTd6VmZMczR6NlNnSGdDODYycEVDYTFaaXdzPVoeIhxabWppY0JQWEZabDhPUVY4eUNLYVdyMGNZYlU9ZbWah0YS7AEIEBLnAQocZnNkeHNqL0I4WThWR0FER0ZmbkZ1bUk2OUE0PRJmWjpBRHF0QVp5b0Z1MXNYQmtFSWwydHlzaDgxb25CeVZaWmplWEczNnNDOXFocStma1FEbzArWlZvR3JaWnlIeHlTb3hTR0UwMkE1Tk9UM0pLZWNFL3Fvdnp3Ykt1MkJTQzVyZz09GAAgACgAMKrGkMHAh4YDOLylnNz2MUC8pZzc9jFKHEVrbUprbHdodXp4Q3hidU5ta0JuVlJRdTg4MD1aHyId3EtxQ0hHV1dDUmRHRHNLQUFmUXJNSENJblVtZz1lJBTq7BLrAQgLEuYBChxjRGlOM3pVVzZvdHpWdmkzYXBwSjhqZEhRM3c9EmZaOkFEcXRBWnlvRnUxc1hCa0VJbDJ0eXNoODFvbkJTOWtqWitndU4zQzd2TjlZRUt2WlBuaVYxa3FmclFJbCthLzQzTm9WNkpQRGlHV3VwZmkvNlU3eVh6RWY2QS9mVUljS1FRPT0YACAAKAAwjNSb8cqDhQM4ms/u6uUxQJrP7urlMUocS09UYjEvZUpZMXhmOWV3VmZYdVhyVzlOWStvPVoeIhxkS2lQYys3Slg1eDVnd3d5bjlOTkpjMjFBU2M9ZQAAAAAS7AEIFRLnAQocM2VPN3NuMktoRmJZbkZzRlNxS1Q0TDlxWmdVPRJmWjpBRHF0QVp5b0Z1MXNYQmtFSWwydHlzaDgxb25CZ0xNbGFyaU1ySXFqWEd2WklZdFpMb0pzWFA4c1d5TWs5NWZvNElOTC9oRkU4Wlc4d0hsVG9JcmdDSEVxd0JzUFdhS2Z1QT09GAAgACgAMLuJjayulYcDOP2Gosz0MUD9hqLM9DFKHE1va29Ib0pjeVMxRThJSjY3Z1VYM0x4Rmtpdz1aHyId0G1McVNCcG14UmQ5LzF4QWxOUHdCNkhLRXFRbz1lvivuRxLrAQgHEuYBChxISDcxSFdqQ09qbFdjU0Y0SVFKZTh2YnRTRk09EmZaOkFEcXRBWnlvRnUxc1hCa0VJbDJ0eXNoODFvbkJtQ21xbkYzQWNOYmlmMWF1cVRxNW0rU21zOU51d3psa2swOGg4TjRKL1FPbVovWVU0NGttbXdadEtkTU55amszSjNQSkNBPT0YACAAKAAwx9aFrb/lhwM4pPzLkNkxQKT8y5DZMUocVWhIMjVCdHMreVlTYUlaWFk3WFhrRkd0dGpBPVoeIhx2N0Fmb0lZa1hKOWpabGVCWkVSOUdacHh5eWc9ZQAAAAAS7AEIChLnAQocbzJNWXh4RnhXUWhXZnV2dEhTamwyL2lnMnZJPRJmWjpBRHF0QVp5b0Z1MXNYQmtFSWwydHlzaDgxb25Cekh6ZVN2Mm02TXRyR1RMMHJyQWZMRTJvaGs5L0Q3Y3J0RkpDL2JsQ0lPajlxaDRoVWJkUEt6T3Yyc2YwcEFIYnZ3YlY0UT09GAAgACgAMNyFnsWhqYQDOKrIgaPaMUCqyIGj2jFKHHNhWHc4dlIrNVB2UzlKRVRWb01BdUtMc1d4ST1aHyId7k9JTHpveExnbE9hWWd5SEE0Y0hseUdSakEyOD1lGEMqcxLsAQgJEucBChxib3lCdTFGTEplY0NoZUlVcmNjeVJPbURRckk9EmZaOkFEcXRBWnlvRnUxc1hCa0VJbDJ0eXNoODFvbkIyVkQ3bTdQYmhkY05BdXN1MVJUUmhlbmdFUDJvRkkyNGpmWVQrVGl0Q1hCbWdzdExwVncxbWZsYmhrRkNoQm9sVnNpb3h3PT0YACAAKAAw/OSbipephAM4+JXWodoxQPiV1qHaMUocckpVdzU1aHZ2R0xyamJXT3FJbTVBUzJ3TFRRPVofIh3dWXNicVFaZ3FMbytLMEkvUFpMNVZlcE1jMmtRPWUhnMFWEuwBCAgS5wEKHEJhNnFObXhuM016ZmRBdmE0NmxlYjM4SGhFaz0SZlo6QURxdEFaeW9GdTFzWEJrRUlsMnR5c2g4MW9uQnE0b0tiUnNOdm13UU9ZaWVvMXNGam5QZitnVXVRSEFVZzUrNTB1U2JEeVF0dzV4ZmdyZlRHclQ1MG9IN0xZdmNrWnlPM2c9PRgAIAAoADD1w+m5uKiEAzjn4seV2jFA5+LHldoxShwyRDBZZVJHK09uV05WN2FYTk9oNmdjdVBzVEk9Wh8iHbtxbkh4OEEzeGhuYWxmdHpna0ZYMjg3Qy9HSTQ9ZWkbIvMS7AEIDxLnAQocdEZMSG82SVdUcysvRFUxZEpoTk9vbWNwZm0wPRJmWjpBRHF0QVp5b0Z1MXNYQmtFSWwydHlzaDgxb25CcGlxQlNsSStzV2RVMWllTGFwakh6MXBTR2VEYUFIVXVXT0syb29OOGhvdlM3b0VXUWxPNXpwZkhkLzd5cDVqcWx0ZzVBUT09GAAgACgAMOzRt/Ohs4UDOL25hvjrMUC9uYb46zFKHGxmcDVBOWx1cnFEaFRrREUxN293MFVHRk9JUT1aHyIduTgvVjBFMVl2STZiMC9jZ1VwZWl3andWcnJKST1lCM5rGRLrAQgFEuYBChxYa3FFM3YwVmVNcUwxNG9oVHRDMDNGbGZHTFE9EmZaOkFEcXRBWnlvRnUxc1hCa0VJbDJ0eXNoODFvbkJteDF3OW5ISlY0UC9XZUorQkhLRithV05ObzYvUjV0WjBKTmNJVkdvZmo4M3oycG5oeEluUnpZMVlRV0pud3R3dTI2aTJRPT0YACAAKAAwpZGnvaODhAM4ycXVtNUxQMnF1bTVMUocWStrVmUwRFRRZFhwMklxTEpsV1oyMHF5WXk0PVoeIhxNM0pLaFhGejRHZ3BBeUJmMER6eEdIWmZGRlU9ZQAAAAASqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp3RG50ZENRUUNyMmxqWExTR1B4bzZlNzkwWU80VkV6bVVJOE9MWCs3MUZGM1psQkRWU3JiNGRtUkpkQ2Y1SlpZM1BoUE80GAAgACgAMIK5x8Kt6IcDOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAwATgA",
+   "version": 1
+}

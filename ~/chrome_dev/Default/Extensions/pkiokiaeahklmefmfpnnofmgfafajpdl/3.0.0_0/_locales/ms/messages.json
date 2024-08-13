@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Mudah semak, cari nama fon yang digunakan di mana-mana laman web"
+   },
+   "app_name": {
+      "message": "Cari Fon"
+   },
+   "browser_action": {
+      "message": "Klik sekali untuk membolehkan pemeriksa, kemudian alihkan tetikus anda ke atas elemen. Klik kunci ESC untuk melepaskan pemeriksa"
+   },
+   "context_copy": {
+      "message": "Salin Butiran Font"
+   },
+   "context_embed_mode": {
+      "message": "Terbuka dalam mod Tertanam"
+   },
+   "context_find": {
+      "message": "Cari Font dalam Bingkai ini"
+   },
+   "context_page": {
+      "message": "Periksa Font"
+   },
+   "context_replace": {
+      "message": "Gantikan fon dengan"
+   },
+   "context_selection": {
+      "message": "Menganalisis Pilihan"
+   },
+   "context_window_mode": {
+      "message": "Terbuka dalam mod Window"
+   },
+   "options_copy": {
+      "message": "Paparkan butiran konteks menu 'Butiran Font Salin'"
+   },
+   "options_faqs": {
+      "message": "Buka halaman FAQ mengenai kemas kini"
+   },
+   "options_find": {
+      "message": "Paparkan item 'Cari Font dalam bingkai' ini"
+   },
+   "options_page": {
+      "message": "Paparkan item menu konteks 'Inspect Font'"
+   },
+   "options_reload": {
+      "message": "Tambah nilai"
+   },
+   "options_replace": {
+      "message": "Tunjukkan 'Gantikan Font dengan' item menu konteks"
+   },
+   "options_reset": {
+      "message": "Tetapan semula kilang"
+   },
+   "options_save": {
+      "message": "Simpan Pilihan"
+   },
+   "options_selection": {
+      "message": "Paparkan item menu konteks 'Analisis Seleksi'"
+   },
+   "options_support": {
+      "message": "Pembangunan Sokongan"
+   },
+   "window_class": {
+      "message": "Kelas Unsur:"
+   },
+   "window_color": {
+      "message": "warna"
+   },
+   "window_decoration": {
+      "message": "Hiasan / Transformasi"
+   },
+   "window_element": {
+      "message": "Butiran Unsur"
+   },
+   "window_font": {
+      "message": "Fon"
+   },
+   "window_id": {
+      "message": "ID Unsur:"
+   },
+   "window_inspect": {
+      "message": "Memeriksa:"
+   },
+   "window_rendered": {
+      "message": "Font yang diberikan:"
+   },
+   "window_spacing": {
+      "message": "Jarak"
+   },
+   "window_title": {
+      "message": "Inspektor :: Pencari Font"
+   },
+   "window_type": {
+      "message": "Jenis Unsur:"
+   }
+}

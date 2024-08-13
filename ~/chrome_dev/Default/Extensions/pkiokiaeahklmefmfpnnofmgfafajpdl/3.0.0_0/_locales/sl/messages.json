@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Ime pisave, ki se uporablja na katerem koli spletnem mestu, je enostavno preveriti"
+   },
+   "app_name": {
+      "message": "Poišči pisavo"
+   },
+   "browser_action": {
+      "message": "Enkrat kliknite, da omogočite inšpektorja, nato pa miško premaknite element. Kliknite tipko ESC, da sprostite inšpektorja"
+   },
+   "context_copy": {
+      "message": "Kopiraj podrobnosti o pisavi"
+   },
+   "context_embed_mode": {
+      "message": "Odprite v vdelanem načinu"
+   },
+   "context_find": {
+      "message": "Poiščite pisave v tem okviru"
+   },
+   "context_page": {
+      "message": "Preglejte pisavo"
+   },
+   "context_replace": {
+      "message": "Zamenjaj pisavo s"
+   },
+   "context_selection": {
+      "message": "Analizirajte izbor"
+   },
+   "context_window_mode": {
+      "message": "Odpri v načinu Windows"
+   },
+   "options_copy": {
+      "message": "Pokaži element kontekstnega menija \"Kopiraj podrobnosti o pisavi\""
+   },
+   "options_faqs": {
+      "message": "Odprite stran s pogostimi vprašanji o posodobitvah"
+   },
+   "options_find": {
+      "message": "Pokaži \"Poišči pisave v tem okviru\" v kontekstnem meniju"
+   },
+   "options_page": {
+      "message": "Pokaži postavko v kontekstnem meniju »Pregledaj pisavo«"
+   },
+   "options_reload": {
+      "message": "Ponovno naloži"
+   },
+   "options_replace": {
+      "message": "Pokaži \"Zamenjaj pisavo s\" elementom v kontekstnem meniju"
+   },
+   "options_reset": {
+      "message": "Tovarniška ponastavitev"
+   },
+   "options_save": {
+      "message": "Možnosti shranjevanja"
+   },
+   "options_selection": {
+      "message": "Pokaži postavko v kontekstnem meniju »Analiziraj izbiro«"
+   },
+   "options_support": {
+      "message": "Podpora razvoju"
+   },
+   "window_class": {
+      "message": "Razred elementov:"
+   },
+   "window_color": {
+      "message": "Barva"
+   },
+   "window_decoration": {
+      "message": "Dekoracija / preoblikovanje"
+   },
+   "window_element": {
+      "message": "Podrobnosti o elementu"
+   },
+   "window_font": {
+      "message": "Pisava"
+   },
+   "window_id": {
+      "message": "ID elementa:"
+   },
+   "window_inspect": {
+      "message": "Pregledovanje:"
+   },
+   "window_rendered": {
+      "message": "Izdelava pisave:"
+   },
+   "window_spacing": {
+      "message": "Razmik"
+   },
+   "window_title": {
+      "message": "Inšpektor :: Iskalec pisave"
+   },
+   "window_type": {
+      "message": "Vrsta elementa:"
+   }
+}

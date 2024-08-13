@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Facile à vérifier, trouver le nom de la police utilisée sur n'importe quel site Web"
+   },
+   "app_name": {
+      "message": "Rechercher une police"
+   },
+   "browser_action": {
+      "message": "Cliquez une fois pour activer l'inspecteur, puis déplacez votre souris sur l'élément. Cliquez sur la touche Échap pour libérer l'inspecteur."
+   },
+   "context_copy": {
+      "message": "Copier les détails de la police"
+   },
+   "context_embed_mode": {
+      "message": "Ouvrir en mode intégré"
+   },
+   "context_find": {
+      "message": "Rechercher des polices dans ce cadre"
+   },
+   "context_page": {
+      "message": "Inspecter la police"
+   },
+   "context_replace": {
+      "message": "Remplacer la police par"
+   },
+   "context_selection": {
+      "message": "Analyser la sélection"
+   },
+   "context_window_mode": {
+      "message": "Ouvrir en mode fenêtre"
+   },
+   "options_copy": {
+      "message": "Afficher l'élément de menu contextuel 'Copier les détails de la police'"
+   },
+   "options_faqs": {
+      "message": "Ouvrir la page FAQ sur les mises à jour"
+   },
+   "options_find": {
+      "message": "Afficher l'élément de menu contextuel 'Rechercher les polices dans ce cadre'"
+   },
+   "options_page": {
+      "message": "Afficher l'élément de menu contextuel 'Inspect Font'"
+   },
+   "options_reload": {
+      "message": "Recharger"
+   },
+   "options_replace": {
+      "message": "Afficher l'élément de menu contextuel 'Remplacer la police avec'"
+   },
+   "options_reset": {
+      "message": "Retour aux paramètres d'usine"
+   },
+   "options_save": {
+      "message": "Enregistrer les options"
+   },
+   "options_selection": {
+      "message": "Afficher l'élément de menu contextuel 'Analyser la sélection'"
+   },
+   "options_support": {
+      "message": "Développement de soutien"
+   },
+   "window_class": {
+      "message": "Classe d'élément:"
+   },
+   "window_color": {
+      "message": "Couleur"
+   },
+   "window_decoration": {
+      "message": "Décoration / Transformation"
+   },
+   "window_element": {
+      "message": "Détails de l'élément"
+   },
+   "window_font": {
+      "message": "Police de caractère"
+   },
+   "window_id": {
+      "message": "ID d'élément:"
+   },
+   "window_inspect": {
+      "message": "Inspection:"
+   },
+   "window_rendered": {
+      "message": "Police en cours de rendu:"
+   },
+   "window_spacing": {
+      "message": "Espacement"
+   },
+   "window_title": {
+      "message": "Inspector :: Font Finder"
+   },
+   "window_type": {
+      "message": "Type d'élément:"
+   }
+}

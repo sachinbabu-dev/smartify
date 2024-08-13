@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Легко проверить, найти название шрифта, используемого на любом сайте"
+   },
+   "app_name": {
+      "message": "Найти шрифт"
+   },
+   "browser_action": {
+      "message": "Нажмите один раз, чтобы включить инспектор, затем наведите курсор мыши на элемент. Нажмите клавишу ESC, чтобы освободить инспектора"
+   },
+   "context_copy": {
+      "message": "Копировать информацию о шрифте"
+   },
+   "context_embed_mode": {
+      "message": "Открыть во встроенном режиме"
+   },
+   "context_find": {
+      "message": "Найти шрифты в этом кадре"
+   },
+   "context_page": {
+      "message": "Проверить шрифт"
+   },
+   "context_replace": {
+      "message": "Заменить шрифт на"
+   },
+   "context_selection": {
+      "message": "Анализировать выбор"
+   },
+   "context_window_mode": {
+      "message": "Открыть в режиме окна"
+   },
+   "options_copy": {
+      "message": "Показать пункт контекстного меню «Копировать информацию о шрифте»"
+   },
+   "options_faqs": {
+      "message": "Открыть страницу часто задаваемых вопросов об обновлениях"
+   },
+   "options_find": {
+      "message": "Показать пункт контекстного меню «Найти шрифты в этом кадре»"
+   },
+   "options_page": {
+      "message": "Показать пункт контекстного меню «Проверить шрифт»"
+   },
+   "options_reload": {
+      "message": "перезагружать"
+   },
+   "options_replace": {
+      "message": "Показать пункт «Заменить шрифт» контекстным меню"
+   },
+   "options_reset": {
+      "message": "Сброс к заводским настройкам"
+   },
+   "options_save": {
+      "message": "Сохранить параметры"
+   },
+   "options_selection": {
+      "message": "Показать пункт контекстного меню «Анализ выбора»"
+   },
+   "options_support": {
+      "message": "Поддержка развития"
+   },
+   "window_class": {
+      "message": "Элемент класса:"
+   },
+   "window_color": {
+      "message": "цвет"
+   },
+   "window_decoration": {
+      "message": "Украшение / Трансформация"
+   },
+   "window_element": {
+      "message": "Детали элемента"
+   },
+   "window_font": {
+      "message": "Шрифт"
+   },
+   "window_id": {
+      "message": "Идентификатор элемента:"
+   },
+   "window_inspect": {
+      "message": "Проверка:"
+   },
+   "window_rendered": {
+      "message": "Отображаемый шрифт:"
+   },
+   "window_spacing": {
+      "message": "расстояние"
+   },
+   "window_title": {
+      "message": "Инспектор :: Font Finder"
+   },
+   "window_type": {
+      "message": "Тип элемента:"
+   }
+}

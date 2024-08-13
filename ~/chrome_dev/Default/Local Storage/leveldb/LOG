@@ -1,0 +1,6 @@
+2024/08/09-22:33:08.359 2307 Reusing MANIFEST /Users/sachinbabu.dev/Desktop/my-react-app/~/chrome_dev/Default/Local Storage/leveldb/MANIFEST-000001
+2024/08/09-22:33:08.363 2307 Recovering log #3
+2024/08/09-22:33:08.364 2307 Reusing old log /Users/sachinbabu.dev/Desktop/my-react-app/~/chrome_dev/Default/Local Storage/leveldb/000003.log 
+2024/08/09-23:31:50.373 3d03 Level-0 table #5: started
+2024/08/09-23:31:50.378 3d03 Level-0 table #5: 25759 bytes OK
+2024/08/09-23:31:50.381 3d03 Delete type=0 #3

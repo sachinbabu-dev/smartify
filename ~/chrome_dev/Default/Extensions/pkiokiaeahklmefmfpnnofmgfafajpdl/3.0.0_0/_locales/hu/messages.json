@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Könnyen ellenőrizhető, keresse meg a weboldalon használt betűtípust"
+   },
+   "app_name": {
+      "message": "Betűtípus keresése"
+   },
+   "browser_action": {
+      "message": "Kattintson egyszer az ellenőr engedélyezéséhez, majd vigye az egeret az elem fölé. Kattintson az ESC gombra az ellenőr felszabadításához"
+   },
+   "context_copy": {
+      "message": "Betűkészlet részleteinek másolása"
+   },
+   "context_embed_mode": {
+      "message": "Megnyitás beágyazott módban"
+   },
+   "context_find": {
+      "message": "Keresse meg a betűkészleteket ebben a keretben"
+   },
+   "context_page": {
+      "message": "Vizsgálja meg a betűtípust"
+   },
+   "context_replace": {
+      "message": "Cserélje le a betűtípust a"
+   },
+   "context_selection": {
+      "message": "Elemezze a kiválasztást"
+   },
+   "context_window_mode": {
+      "message": "Megnyitás ablak módban"
+   },
+   "options_copy": {
+      "message": "A „Betűtípus részleteinek másolása” kontextus menü elem megjelenítése"
+   },
+   "options_faqs": {
+      "message": "Nyissa meg a GYIK oldalt a frissítésekről"
+   },
+   "options_find": {
+      "message": "Mutassa a \"Betűkészletek keresése ebben a keretben\" helyi menüpontot"
+   },
+   "options_page": {
+      "message": "Mutassa az \"Ellenőrizze a betűtípust\" helyi menüpontot"
+   },
+   "options_reload": {
+      "message": "Reload"
+   },
+   "options_replace": {
+      "message": "Jelenítse meg a 'Cserélje betűtípust' menüpontot"
+   },
+   "options_reset": {
+      "message": "Gyári beállítások visszaállítása"
+   },
+   "options_save": {
+      "message": "Mentési beállítások"
+   },
+   "options_selection": {
+      "message": "Mutassa az „elemzés a kiválasztást” helyi menüpontot"
+   },
+   "options_support": {
+      "message": "Támogatás fejlesztése"
+   },
+   "window_class": {
+      "message": "Elem osztály:"
+   },
+   "window_color": {
+      "message": "Szín"
+   },
+   "window_decoration": {
+      "message": "Dekoráció / Átalakítás"
+   },
+   "window_element": {
+      "message": "Az elem részletei"
+   },
+   "window_font": {
+      "message": "Betűtípus"
+   },
+   "window_id": {
+      "message": "Elem azonosítója:"
+   },
+   "window_inspect": {
+      "message": "ellenőrzése:"
+   },
+   "window_rendered": {
+      "message": "Megjelenítendő betűtípus:"
+   },
+   "window_spacing": {
+      "message": "térköz"
+   },
+   "window_title": {
+      "message": "Inspector :: Betűtípus-kereső"
+   },
+   "window_type": {
+      "message": "Elem típusa:"
+   }
+}

@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Snadno zkontrolovat, najít název písma použitého na jakémkoli webu"
+   },
+   "app_name": {
+      "message": "Najít písmo"
+   },
+   "browser_action": {
+      "message": "Jedním klepnutím aktivujete inspektor a poté pohnete myší přes prvek. Klepnutím na klávesu ESC uvolněte inspektora"
+   },
+   "context_copy": {
+      "message": "Kopírovat podrobnosti o písmu"
+   },
+   "context_embed_mode": {
+      "message": "Otevřít ve vestavěném režimu"
+   },
+   "context_find": {
+      "message": "Najděte písma v tomto rámečku"
+   },
+   "context_page": {
+      "message": "Zkontrolujte písmo"
+   },
+   "context_replace": {
+      "message": "Nahraďte písmo"
+   },
+   "context_selection": {
+      "message": "Analyzujte výběr"
+   },
+   "context_window_mode": {
+      "message": "Otevřít v režimu okna"
+   },
+   "options_copy": {
+      "message": "Zobrazit položku místní nabídky „Kopírovat podrobnosti o písmu“"
+   },
+   "options_faqs": {
+      "message": "Otevřete stránku FAQs o aktualizacích"
+   },
+   "options_find": {
+      "message": "Zobrazit položku kontextové nabídky 'Najít písma v tomto rámečku'"
+   },
+   "options_page": {
+      "message": "Zobrazit položku kontextové nabídky 'Zkontrolovat písmo'"
+   },
+   "options_reload": {
+      "message": "Znovu načíst"
+   },
+   "options_replace": {
+      "message": "Zobrazit položku kontextového menu „Nahradit písmo“"
+   },
+   "options_reset": {
+      "message": "Obnovení továrního nastavení"
+   },
+   "options_save": {
+      "message": "Uložit možnosti"
+   },
+   "options_selection": {
+      "message": "Zobrazit položku místní nabídky „Analyzovat výběr“"
+   },
+   "options_support": {
+      "message": "Podpora rozvoje"
+   },
+   "window_class": {
+      "message": "Třída prvků:"
+   },
+   "window_color": {
+      "message": "Barva"
+   },
+   "window_decoration": {
+      "message": "Dekorace / Transformace"
+   },
+   "window_element": {
+      "message": "Detaily prvku"
+   },
+   "window_font": {
+      "message": "Písmo"
+   },
+   "window_id": {
+      "message": "ID prvku:"
+   },
+   "window_inspect": {
+      "message": "Kontrola:"
+   },
+   "window_rendered": {
+      "message": "Zobrazované písmo:"
+   },
+   "window_spacing": {
+      "message": "Vzdálenost"
+   },
+   "window_title": {
+      "message": "Inspector :: Font Finder"
+   },
+   "window_type": {
+      "message": "Typ prvku:"
+   }
+}

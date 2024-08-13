@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "چک کردن آسان ، پیدا کردن نام فونت مورد استفاده در هر وب سایت"
+   },
+   "app_name": {
+      "message": "قلم را پیدا کنید"
+   },
+   "browser_action": {
+      "message": "یکبار کلیک کنید تا بازرس فعال شود ، سپس موس خود را بر روی عنصر حرکت دهید. برای آزاد کردن بازرس ، روی کلید ESC کلیک کنید"
+   },
+   "context_copy": {
+      "message": "جزئیات قلم را کپی کنید"
+   },
+   "context_embed_mode": {
+      "message": "در حالت تعبیه شده باز کنید"
+   },
+   "context_find": {
+      "message": "قلم ها را در این قاب پیدا کنید"
+   },
+   "context_page": {
+      "message": "قلم را بازرسی کنید"
+   },
+   "context_replace": {
+      "message": "قلم را با"
+   },
+   "context_selection": {
+      "message": "انتخاب را تجزیه و تحلیل کنید"
+   },
+   "context_window_mode": {
+      "message": "در حالت پنجره باز کنید"
+   },
+   "options_copy": {
+      "message": "مورد \"فهرست فونت\" را کپی کنید"
+   },
+   "options_faqs": {
+      "message": "صفحه سؤالات متداول را در به روزرسانی ها باز کنید"
+   },
+   "options_find": {
+      "message": "مورد \"فهرست یافتن قلمها در این قاب\" را نشان دهید"
+   },
+   "options_page": {
+      "message": "مورد منوی زمینه \"بازرسی قلم\" را نشان دهید"
+   },
+   "options_reload": {
+      "message": "بارگیری مجدد"
+   },
+   "options_replace": {
+      "message": "مورد \"فهرست فونت را جایگزین کنید\""
+   },
+   "options_reset": {
+      "message": "تنظیم مجدد کارخانه"
+   },
+   "options_save": {
+      "message": "گزینه های ذخیره"
+   },
+   "options_selection": {
+      "message": "مورد \"فهرست زمینه\" را انتخاب کنید"
+   },
+   "options_support": {
+      "message": "توسعه پشتیبانی"
+   },
+   "window_class": {
+      "message": "کلاس عناصر:"
+   },
+   "window_color": {
+      "message": "رنگ"
+   },
+   "window_decoration": {
+      "message": "دکوراسیون / تحول"
+   },
+   "window_element": {
+      "message": "جزئیات عنصر"
+   },
+   "window_font": {
+      "message": "قلم"
+   },
+   "window_id": {
+      "message": "شناسه عنصر:"
+   },
+   "window_inspect": {
+      "message": "بازرسی:"
+   },
+   "window_rendered": {
+      "message": "قلم ارائه می شود:"
+   },
+   "window_spacing": {
+      "message": "فاصله"
+   },
+   "window_title": {
+      "message": "بازرس :: فونت یاب"
+   },
+   "window_type": {
+      "message": "نوع عنصر:"
+   }
+}

@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Let at kontrollere, find det skrifttype, der bruges på ethvert websted"
+   },
+   "app_name": {
+      "message": "Find skrifttype"
+   },
+   "browser_action": {
+      "message": "Klik en gang for at aktivere inspektøren, og flyt derefter musen hen over elementet. Klik på ESC-tasten for at frigive inspektøren"
+   },
+   "context_copy": {
+      "message": "Kopier skriftoplysninger"
+   },
+   "context_embed_mode": {
+      "message": "Åben i integreret tilstand"
+   },
+   "context_find": {
+      "message": "Find skrifttyper i denne ramme"
+   },
+   "context_page": {
+      "message": "Inspicér skrifttype"
+   },
+   "context_replace": {
+      "message": "Erstat skrifttype med"
+   },
+   "context_selection": {
+      "message": "Analyser valg"
+   },
+   "context_window_mode": {
+      "message": "Åbn i vinduetilstand"
+   },
+   "options_copy": {
+      "message": "Vis 'Copy Font Details' kontekstmenuelement"
+   },
+   "options_faqs": {
+      "message": "Åbn side med ofte stillede spørgsmål om opdateringer"
+   },
+   "options_find": {
+      "message": "Vis 'Find skrifter i denne ramme' kontekstmenuelement"
+   },
+   "options_page": {
+      "message": "Vis 'Inspicér skrifttype' kontekstmenuelement"
+   },
+   "options_reload": {
+      "message": "Opdater"
+   },
+   "options_replace": {
+      "message": "Vis 'Erstat skrift med' kontekstmenuelement"
+   },
+   "options_reset": {
+      "message": "Gendan fabriksindstillinger"
+   },
+   "options_save": {
+      "message": "Gem indstillinger"
+   },
+   "options_selection": {
+      "message": "Vis 'Analysér valg' -kontekstmenuelement"
+   },
+   "options_support": {
+      "message": "Supportudvikling"
+   },
+   "window_class": {
+      "message": "Elementklasse:"
+   },
+   "window_color": {
+      "message": "Farve"
+   },
+   "window_decoration": {
+      "message": "Dekoration / transformation"
+   },
+   "window_element": {
+      "message": "Elementdetaljer"
+   },
+   "window_font": {
+      "message": "Skrifttype"
+   },
+   "window_id": {
+      "message": "Element ID:"
+   },
+   "window_inspect": {
+      "message": "Inspektion:"
+   },
+   "window_rendered": {
+      "message": "Skrift, der gengives:"
+   },
+   "window_spacing": {
+      "message": "Mellemrum"
+   },
+   "window_title": {
+      "message": "Inspektør :: Font Finder"
+   },
+   "window_type": {
+      "message": "Elementtype:"
+   }
+}

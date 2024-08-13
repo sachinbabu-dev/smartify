@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Лесно за проверка, намерете името на шрифта, използвано на всеки уебсайт"
+   },
+   "app_name": {
+      "message": "Намерете шрифта"
+   },
+   "browser_action": {
+      "message": "Щракнете веднъж, за да активирате инспектора, след което преместете мишката върху елемента. Щракнете върху клавиша ESC, за да освободите инспектора"
+   },
+   "context_copy": {
+      "message": "Копиране на подробности за шрифта"
+   },
+   "context_embed_mode": {
+      "message": "Отваряне в вграден режим"
+   },
+   "context_find": {
+      "message": "Намерете шрифтове в този кадър"
+   },
+   "context_page": {
+      "message": "Проверете шрифта"
+   },
+   "context_replace": {
+      "message": "Заменете шрифта с"
+   },
+   "context_selection": {
+      "message": "Анализирайте селекцията"
+   },
+   "context_window_mode": {
+      "message": "Отваряне в режим на прозореца"
+   },
+   "options_copy": {
+      "message": "Показване на елемент от контекстното меню „Копиране на подробности за шрифта“"
+   },
+   "options_faqs": {
+      "message": "Отворете страницата с често задавани въпроси относно актуализациите"
+   },
+   "options_find": {
+      "message": "Показване на „Намиране на шрифтове в този кадър“ от контекстното меню"
+   },
+   "options_page": {
+      "message": "Показване на елемент от контекстното меню „Проверка на шрифта“"
+   },
+   "options_reload": {
+      "message": "Презареди"
+   },
+   "options_replace": {
+      "message": "Покажете „Замени шрифта с“ елемент от контекстното меню"
+   },
+   "options_reset": {
+      "message": "Фабрично нулиране"
+   },
+   "options_save": {
+      "message": "Опции за запазване"
+   },
+   "options_selection": {
+      "message": "Показване на елемент от контекстното меню „Анализиране на избора“"
+   },
+   "options_support": {
+      "message": "Подкрепа за развитие"
+   },
+   "window_class": {
+      "message": "Клас на елементи:"
+   },
+   "window_color": {
+      "message": "цвят"
+   },
+   "window_decoration": {
+      "message": "Украса / трансформация"
+   },
+   "window_element": {
+      "message": "Детайли за елемента"
+   },
+   "window_font": {
+      "message": "Font"
+   },
+   "window_id": {
+      "message": "Елемент ID:"
+   },
+   "window_inspect": {
+      "message": "Проверка:"
+   },
+   "window_rendered": {
+      "message": "Шрифтът се изобразява:"
+   },
+   "window_spacing": {
+      "message": "Разстояние"
+   },
+   "window_title": {
+      "message": "Инспектор :: Шрифтово търсене"
+   },
+   "window_type": {
+      "message": "Тип елемент:"
+   }
+}

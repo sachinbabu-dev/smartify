@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "किसी भी वेबसाइट पर उपयोग किए जाने वाले फ़ॉन्ट नाम को जांचना आसान है"
+   },
+   "app_name": {
+      "message": "फ़ॉन्ट खोजें"
+   },
+   "browser_action": {
+      "message": "निरीक्षक को सक्षम करने के लिए एक बार क्लिक करें, फिर अपने माउस को तत्व पर ले जाएँ। इंस्पेक्टर को रिहा करने के लिए ESC कुंजी पर क्लिक करें"
+   },
+   "context_copy": {
+      "message": "फ़ॉन्ट विवरण कॉपी करें"
+   },
+   "context_embed_mode": {
+      "message": "एंबेडेड मोड में खोलें"
+   },
+   "context_find": {
+      "message": "इस फ़्रेम में फ़ॉन्ट ढूंढें"
+   },
+   "context_page": {
+      "message": "फ़ॉन्ट का निरीक्षण करें"
+   },
+   "context_replace": {
+      "message": "फ़ॉन्ट के साथ बदलें"
+   },
+   "context_selection": {
+      "message": "चयन का विश्लेषण करें"
+   },
+   "context_window_mode": {
+      "message": "विंडो मोड में खोलें"
+   },
+   "options_copy": {
+      "message": "'कॉपी फ़ॉन्ट विवरण' संदर्भ-मेनू आइटम दिखाएं"
+   },
+   "options_faqs": {
+      "message": "अद्यतनों पर सामान्य प्रश्न पृष्ठ खोलें"
+   },
+   "options_find": {
+      "message": "शो 'इस फ़्रेम में फ़ॉन्ट खोजें' संदर्भ-मेनू आइटम"
+   },
+   "options_page": {
+      "message": "शो 'निरीक्षण फ़ॉन्ट' संदर्भ-मेनू आइटम"
+   },
+   "options_reload": {
+      "message": "पुनः लोड करें"
+   },
+   "options_replace": {
+      "message": "संदर्भ-मेनू आइटम के साथ 'बदलें फ़ॉन्ट' दिखाएँ"
+   },
+   "options_reset": {
+      "message": "नए यंत्र जैसी सेटिंग"
+   },
+   "options_save": {
+      "message": "विकल्प सहेजें"
+   },
+   "options_selection": {
+      "message": "'चयन का विश्लेषण' संदर्भ-मेनू आइटम दिखाएं"
+   },
+   "options_support": {
+      "message": "समर्थन विकास"
+   },
+   "window_class": {
+      "message": "तत्व वर्ग:"
+   },
+   "window_color": {
+      "message": "रंग"
+   },
+   "window_decoration": {
+      "message": "सजावट / परिवर्तन"
+   },
+   "window_element": {
+      "message": "तत्व विवरण"
+   },
+   "window_font": {
+      "message": "फ़ॉन्ट"
+   },
+   "window_id": {
+      "message": "तत्व आईडी:"
+   },
+   "window_inspect": {
+      "message": "निरीक्षण:"
+   },
+   "window_rendered": {
+      "message": "फ़ॉन्ट प्रदान किया जा रहा है:"
+   },
+   "window_spacing": {
+      "message": "अंतर"
+   },
+   "window_title": {
+      "message": "इंस्पेक्टर :: फ़ॉन्ट खोजक"
+   },
+   "window_type": {
+      "message": "तत्व प्रकार:"
+   }
+}

@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Helppo tarkistaa, etsi mistä tahansa verkkosivustosta käytetty fontinimi"
+   },
+   "app_name": {
+      "message": "Etsi kirjasin"
+   },
+   "browser_action": {
+      "message": "Ota tarkastaja käyttöön napsauttamalla kerran ja siirrä sitten hiiri elementin päälle. Napsauta ESC-näppäintä vapauttaaksesi tarkastajan"
+   },
+   "context_copy": {
+      "message": "Kopioi fontin tiedot"
+   },
+   "context_embed_mode": {
+      "message": "Avaa sulautetussa tilassa"
+   },
+   "context_find": {
+      "message": "Etsi fontit tästä kehyksestä"
+   },
+   "context_page": {
+      "message": "Tarkasta fontti"
+   },
+   "context_replace": {
+      "message": "Korvaa fontti"
+   },
+   "context_selection": {
+      "message": "Analysoi valinta"
+   },
+   "context_window_mode": {
+      "message": "Avaa ikkunatilassa"
+   },
+   "options_copy": {
+      "message": "Näytä 'Kopioi fontin tiedot' -valikkovaihtoehto"
+   },
+   "options_faqs": {
+      "message": "Avaa päivitysten UKK-sivu"
+   },
+   "options_find": {
+      "message": "Näytä 'Etsi fontit tästä kehyksestä' -valikkokohta"
+   },
+   "options_page": {
+      "message": "Näytä 'Tarkasta kirjasin' kontekstivalikkokohta"
+   },
+   "options_reload": {
+      "message": "ladata"
+   },
+   "options_replace": {
+      "message": "Näytä 'Korvaa fontti' kontekstivalikkokohta"
+   },
+   "options_reset": {
+      "message": "Tehdasasetusten palautus"
+   },
+   "options_save": {
+      "message": "Tallenna asetukset"
+   },
+   "options_selection": {
+      "message": "Näytä 'Analysoi valinta' kontekstivalikkokohta"
+   },
+   "options_support": {
+      "message": "Tukikehitys"
+   },
+   "window_class": {
+      "message": "Alkuaineluokka:"
+   },
+   "window_color": {
+      "message": "Väri"
+   },
+   "window_decoration": {
+      "message": "Sisustus / muunnos"
+   },
+   "window_element": {
+      "message": "Elementin yksityiskohdat"
+   },
+   "window_font": {
+      "message": "kirjasinlaji"
+   },
+   "window_id": {
+      "message": "Elementin tunnus:"
+   },
+   "window_inspect": {
+      "message": "tarkastaa:"
+   },
+   "window_rendered": {
+      "message": "Rentoitava fontti:"
+   },
+   "window_spacing": {
+      "message": "väli"
+   },
+   "window_title": {
+      "message": "Tarkastaja :: Fonttien etsijä"
+   },
+   "window_type": {
+      "message": "Elementin tyyppi:"
+   }
+}

@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Einfach zu überprüfen, finden Sie den auf jeder Website verwendeten Schriftnamen"
+   },
+   "app_name": {
+      "message": "Schriftart finden"
+   },
+   "browser_action": {
+      "message": "Klicken Sie einmal, um den Inspektor zu aktivieren, und bewegen Sie dann die Maus über das Element. Klicken Sie auf die ESC-Taste, um den Inspektor freizugeben"
+   },
+   "context_copy": {
+      "message": "Schriftartdetails kopieren"
+   },
+   "context_embed_mode": {
+      "message": "Im eingebetteten Modus öffnen"
+   },
+   "context_find": {
+      "message": "Finden Sie Schriftarten in diesem Frame"
+   },
+   "context_page": {
+      "message": "Überprüfen Sie die Schriftart"
+   },
+   "context_replace": {
+      "message": "Ersetzen Sie Schriftart durch"
+   },
+   "context_selection": {
+      "message": "Auswahl analysieren"
+   },
+   "context_window_mode": {
+      "message": "Im Fenstermodus öffnen"
+   },
+   "options_copy": {
+      "message": "Kontextmenüpunkt 'Schriftartdetails kopieren' anzeigen"
+   },
+   "options_faqs": {
+      "message": "Öffnen Sie die Seite mit den häufig gestellten Fragen zu Updates"
+   },
+   "options_find": {
+      "message": "Zeigen Sie den Kontextmenüpunkt 'Schriften in diesem Rahmen suchen' an"
+   },
+   "options_page": {
+      "message": "Kontextmenüpunkt 'Inspect Font' anzeigen"
+   },
+   "options_reload": {
+      "message": "Neu laden"
+   },
+   "options_replace": {
+      "message": "Zeigen Sie den Kontextmenüpunkt 'Schriftart ersetzen durch' an"
+   },
+   "options_reset": {
+      "message": "Werkseinstellungen zurückgesetzt"
+   },
+   "options_save": {
+      "message": "Optionen speichern"
+   },
+   "options_selection": {
+      "message": "Kontextmenüpunkt 'Auswahl analysieren' anzeigen"
+   },
+   "options_support": {
+      "message": "Entwicklung unterstützen"
+   },
+   "window_class": {
+      "message": "Elementklasse:"
+   },
+   "window_color": {
+      "message": "Farbe"
+   },
+   "window_decoration": {
+      "message": "Dekoration / Transformation"
+   },
+   "window_element": {
+      "message": "Elementdetails"
+   },
+   "window_font": {
+      "message": "Schriftart"
+   },
+   "window_id": {
+      "message": "Element ID:"
+   },
+   "window_inspect": {
+      "message": "Inspektion:"
+   },
+   "window_rendered": {
+      "message": "Schriftart wird gerendert:"
+   },
+   "window_spacing": {
+      "message": "Abstand"
+   },
+   "window_title": {
+      "message": "Inspector :: Font Finder"
+   },
+   "window_type": {
+      "message": "Elementtyp:"
+   }
+}

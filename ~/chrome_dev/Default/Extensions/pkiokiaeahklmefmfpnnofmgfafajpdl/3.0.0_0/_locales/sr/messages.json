@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Лако је проверити, пронађите назив фонта који се користи на било ком веб месту"
+   },
+   "app_name": {
+      "message": "Пронађите фонт"
+   },
+   "browser_action": {
+      "message": "Кликните једном да бисте омогућили инспектору, а затим пређите мишем преко елемента. Кликните ЕСЦ тастер да бисте ослободили инспектора"
+   },
+   "context_copy": {
+      "message": "Копирајте детаље слова"
+   },
+   "context_embed_mode": {
+      "message": "Отвори у уграђеном режиму"
+   },
+   "context_find": {
+      "message": "Пронађите фонтове у овом оквиру"
+   },
+   "context_page": {
+      "message": "Испитајте фонт"
+   },
+   "context_replace": {
+      "message": "Замените фонт са"
+   },
+   "context_selection": {
+      "message": "Анализирајте избор"
+   },
+   "context_window_mode": {
+      "message": "Отвори у режиму Виндов"
+   },
+   "options_copy": {
+      "message": "Прикажи ставку контекстног менија „Копирај детаље фонта“"
+   },
+   "options_faqs": {
+      "message": "Отворите страницу Често постављана питања о ажурирањима"
+   },
+   "options_find": {
+      "message": "Прикажите ставку контекстног менија „Пронађи фонтове у овом оквиру“"
+   },
+   "options_page": {
+      "message": "Прикажите ставку контекстног менија „Инспецт Фонт“"
+   },
+   "options_reload": {
+      "message": "Освежи"
+   },
+   "options_replace": {
+      "message": "Прикажи „Замијени фонт са“ ставком контекстног менија"
+   },
+   "options_reset": {
+      "message": "Ресетовање фабрике"
+   },
+   "options_save": {
+      "message": "Саве Оптионс"
+   },
+   "options_selection": {
+      "message": "Прикажи ставку контекстног менија „Анализирај избор“"
+   },
+   "options_support": {
+      "message": "Подршка развоју"
+   },
+   "window_class": {
+      "message": "Класа елемената:"
+   },
+   "window_color": {
+      "message": "боја"
+   },
+   "window_decoration": {
+      "message": "Декорација / трансформација"
+   },
+   "window_element": {
+      "message": "Детаљи елемента"
+   },
+   "window_font": {
+      "message": "Фонт"
+   },
+   "window_id": {
+      "message": "Елемент ИД:"
+   },
+   "window_inspect": {
+      "message": "Инспекција:"
+   },
+   "window_rendered": {
+      "message": "Фонт се приказује:"
+   },
+   "window_spacing": {
+      "message": "Размак"
+   },
+   "window_title": {
+      "message": "Инспектор :: Тражилица фонтова"
+   },
+   "window_type": {
+      "message": "Тип елемента:"
+   }
+}

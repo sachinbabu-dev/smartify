@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "쉽게 확인하고 모든 웹 사이트에서 사용되는 글꼴 이름을 찾으십시오."
+   },
+   "app_name": {
+      "message": "글꼴 찾기"
+   },
+   "browser_action": {
+      "message": "한 번 클릭하여 관리자를 활성화 한 다음 마우스를 요소 위로 이동하십시오. 관리자를 해제하려면 ESC 키를 클릭하십시오"
+   },
+   "context_copy": {
+      "message": "폰트 세부 사항 복사"
+   },
+   "context_embed_mode": {
+      "message": "내장 모드에서 열기"
+   },
+   "context_find": {
+      "message": "이 프레임에서 글꼴 찾기"
+   },
+   "context_page": {
+      "message": "글꼴 검사"
+   },
+   "context_replace": {
+      "message": "글꼴을"
+   },
+   "context_selection": {
+      "message": "선택 분석"
+   },
+   "context_window_mode": {
+      "message": "창 모드에서 열기"
+   },
+   "options_copy": {
+      "message": "'글꼴 세부 사항 복사'상황에 맞는 메뉴 항목 표시"
+   },
+   "options_faqs": {
+      "message": "업데이트 관련 FAQ 페이지 열기"
+   },
+   "options_find": {
+      "message": "'이 프레임에서 글꼴 찾기'상황에 맞는 메뉴 항목 표시"
+   },
+   "options_page": {
+      "message": "'글꼴 검사'상황에 맞는 메뉴 항목 표시"
+   },
+   "options_reload": {
+      "message": "새로 고침"
+   },
+   "options_replace": {
+      "message": "'글꼴 바꾸기'컨텍스트 메뉴 항목 표시"
+   },
+   "options_reset": {
+      "message": "공장 초기화"
+   },
+   "options_save": {
+      "message": "저장 옵션"
+   },
+   "options_selection": {
+      "message": "'선택 분석'상황에 맞는 메뉴 항목 표시"
+   },
+   "options_support": {
+      "message": "지원 개발"
+   },
+   "window_class": {
+      "message": "요소 클래스 :"
+   },
+   "window_color": {
+      "message": "색깔"
+   },
+   "window_decoration": {
+      "message": "장식 / 변형"
+   },
+   "window_element": {
+      "message": "요소 세부 사항"
+   },
+   "window_font": {
+      "message": "폰트"
+   },
+   "window_id": {
+      "message": "요소 ID :"
+   },
+   "window_inspect": {
+      "message": "검사 :"
+   },
+   "window_rendered": {
+      "message": "렌더링되는 글꼴 :"
+   },
+   "window_spacing": {
+      "message": "간격"
+   },
+   "window_title": {
+      "message": "인스펙터 :: 폰트 파인더"
+   },
+   "window_type": {
+      "message": "요소 유형 :"
+   }
+}

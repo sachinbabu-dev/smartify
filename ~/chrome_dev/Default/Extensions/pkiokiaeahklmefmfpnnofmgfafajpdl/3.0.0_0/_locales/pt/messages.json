@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Fácil de verificar, encontre o nome da fonte usada em qualquer site"
+   },
+   "app_name": {
+      "message": "Encontrar fonte"
+   },
+   "browser_action": {
+      "message": "Clique uma vez para ativar o inspetor e mova o mouse sobre o elemento. Clique na tecla ESC para liberar o inspetor"
+   },
+   "context_copy": {
+      "message": "Copiar detalhes da fonte"
+   },
+   "context_embed_mode": {
+      "message": "Abrir no modo incorporado"
+   },
+   "context_find": {
+      "message": "Localizar fontes neste quadro"
+   },
+   "context_page": {
+      "message": "Inspecionar fonte"
+   },
+   "context_replace": {
+      "message": "Substituir fonte por"
+   },
+   "context_selection": {
+      "message": "Analisar seleção"
+   },
+   "context_window_mode": {
+      "message": "Abrir no modo Janela"
+   },
+   "options_copy": {
+      "message": "Mostrar item de menu de contexto 'Copiar detalhes da fonte'"
+   },
+   "options_faqs": {
+      "message": "Abra a página de perguntas frequentes sobre atualizações"
+   },
+   "options_find": {
+      "message": "Mostrar o item de menu de contexto 'Localizar fontes neste quadro'"
+   },
+   "options_page": {
+      "message": "Mostrar item de menu de contexto 'Inspecionar fonte'"
+   },
+   "options_reload": {
+      "message": "recarregar"
+   },
+   "options_replace": {
+      "message": "Mostrar 'Substituir fonte por' item de menu de contexto"
+   },
+   "options_reset": {
+      "message": "Restauração de fábrica"
+   },
+   "options_save": {
+      "message": "Salvar opções"
+   },
+   "options_selection": {
+      "message": "Mostrar item de menu de contexto 'Analisar seleção'"
+   },
+   "options_support": {
+      "message": "Apoio ao Desenvolvimento"
+   },
+   "window_class": {
+      "message": "Classe do elemento:"
+   },
+   "window_color": {
+      "message": "Cor"
+   },
+   "window_decoration": {
+      "message": "Decoração / Transformação"
+   },
+   "window_element": {
+      "message": "Detalhes do elemento"
+   },
+   "window_font": {
+      "message": "Fonte"
+   },
+   "window_id": {
+      "message": "ID do elemento:"
+   },
+   "window_inspect": {
+      "message": "Inspecionando:"
+   },
+   "window_rendered": {
+      "message": "Fonte sendo renderizada:"
+   },
+   "window_spacing": {
+      "message": "Espaçamento"
+   },
+   "window_title": {
+      "message": "Inspector :: Localizador de fontes"
+   },
+   "window_type": {
+      "message": "Tipo de elemento:"
+   }
+}

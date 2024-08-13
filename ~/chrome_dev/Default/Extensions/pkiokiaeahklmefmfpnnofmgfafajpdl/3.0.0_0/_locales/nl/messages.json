@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Gemakkelijk te controleren, vind de lettertypenaam die op elke website wordt gebruikt"
+   },
+   "app_name": {
+      "message": "Zoek lettertype"
+   },
+   "browser_action": {
+      "message": "Klik eenmaal om de infovenster in te schakelen en beweeg vervolgens uw muis over het element. Klik op de ESC-toets om het infovenster vrij te geven"
+   },
+   "context_copy": {
+      "message": "Kopieer lettertypegegevens"
+   },
+   "context_embed_mode": {
+      "message": "Openen in ingesloten modus"
+   },
+   "context_find": {
+      "message": "Zoek lettertypen in dit frame"
+   },
+   "context_page": {
+      "message": "Inspecteer lettertype"
+   },
+   "context_replace": {
+      "message": "Vervang lettertype door"
+   },
+   "context_selection": {
+      "message": "Selectie analyseren"
+   },
+   "context_window_mode": {
+      "message": "Open in de venstermodus"
+   },
+   "options_copy": {
+      "message": "Toon contextmenu-item 'Kopieer lettertypegegevens'"
+   },
+   "options_faqs": {
+      "message": "Open de pagina met veelgestelde vragen over updates"
+   },
+   "options_find": {
+      "message": "Toon het contextmenu-item 'Zoek lettertypen in dit frame'"
+   },
+   "options_page": {
+      "message": "Toon contextmenu-item 'Inspect Font'"
+   },
+   "options_reload": {
+      "message": "vernieuwen"
+   },
+   "options_replace": {
+      "message": "Toon 'Vervang lettertype door' contextmenu-item"
+   },
+   "options_reset": {
+      "message": "Fabrieksinstellingen"
+   },
+   "options_save": {
+      "message": "Opties opslaan"
+   },
+   "options_selection": {
+      "message": "Contextmenu-item 'Analyseer selectie' weergeven"
+   },
+   "options_support": {
+      "message": "Ondersteuning ontwikkeling"
+   },
+   "window_class": {
+      "message": "Element Klasse:"
+   },
+   "window_color": {
+      "message": "Kleur"
+   },
+   "window_decoration": {
+      "message": "Decoratie / transformatie"
+   },
+   "window_element": {
+      "message": "Elementdetails"
+   },
+   "window_font": {
+      "message": "doopvont"
+   },
+   "window_id": {
+      "message": "Element ID:"
+   },
+   "window_inspect": {
+      "message": "Het inspecteren:"
+   },
+   "window_rendered": {
+      "message": "Lettertype wordt weergegeven:"
+   },
+   "window_spacing": {
+      "message": "Spatiëring"
+   },
+   "window_title": {
+      "message": "Inspector :: Font Finder"
+   },
+   "window_type": {
+      "message": "Elementtype:"
+   }
+}

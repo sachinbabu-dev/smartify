@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Dễ dàng kiểm tra, tìm tên phông chữ được sử dụng trên bất kỳ trang web nào"
+   },
+   "app_name": {
+      "message": "Tìm phông chữ"
+   },
+   "browser_action": {
+      "message": "Nhấp một lần để bật trình kiểm tra, sau đó di chuyển chuột qua phần tử. Nhấp vào phím ESC để nhả thanh tra"
+   },
+   "context_copy": {
+      "message": "Sao chép chi tiết phông chữ"
+   },
+   "context_embed_mode": {
+      "message": "Mở ở chế độ Nhúng"
+   },
+   "context_find": {
+      "message": "Tìm phông chữ trong khung này"
+   },
+   "context_page": {
+      "message": "Kiểm tra phông chữ"
+   },
+   "context_replace": {
+      "message": "Thay thế Phông chữ bằng"
+   },
+   "context_selection": {
+      "message": "Phân tích lựa chọn"
+   },
+   "context_window_mode": {
+      "message": "Mở ở chế độ Cửa sổ"
+   },
+   "options_copy": {
+      "message": "Hiển thị mục menu ngữ cảnh 'Sao chép chi tiết phông chữ'"
+   },
+   "options_faqs": {
+      "message": "Mở trang Câu hỏi thường gặp về cập nhật"
+   },
+   "options_find": {
+      "message": "Hiển thị 'Tìm phông chữ trong mục menu ngữ cảnh của Khung này'"
+   },
+   "options_page": {
+      "message": "Hiển thị mục menu ngữ cảnh 'Kiểm tra phông chữ'"
+   },
+   "options_reload": {
+      "message": "Tải lại"
+   },
+   "options_replace": {
+      "message": "Hiển thị 'Thay thế Phông chữ bằng' mục menu ngữ cảnh"
+   },
+   "options_reset": {
+      "message": "Khôi phục cài đặt gốc"
+   },
+   "options_save": {
+      "message": "Lưu tùy chọn"
+   },
+   "options_selection": {
+      "message": "Hiển thị mục trình đơn ngữ cảnh 'Phân tích lựa chọn'"
+   },
+   "options_support": {
+      "message": "Hỗ trợ phát triển"
+   },
+   "window_class": {
+      "message": "Lớp nguyên tố:"
+   },
+   "window_color": {
+      "message": "Màu"
+   },
+   "window_decoration": {
+      "message": "Trang trí / Chuyển đổi"
+   },
+   "window_element": {
+      "message": "Chi tiết yếu tố"
+   },
+   "window_font": {
+      "message": "Phông chữ"
+   },
+   "window_id": {
+      "message": "ID phần tử:"
+   },
+   "window_inspect": {
+      "message": "Kiểm tra:"
+   },
+   "window_rendered": {
+      "message": "Phông chữ được hiển thị:"
+   },
+   "window_spacing": {
+      "message": "khoảng cách"
+   },
+   "window_title": {
+      "message": "Thanh tra :: Trình tìm phông chữ"
+   },
+   "window_type": {
+      "message": "Loại nguyên tố:"
+   }
+}

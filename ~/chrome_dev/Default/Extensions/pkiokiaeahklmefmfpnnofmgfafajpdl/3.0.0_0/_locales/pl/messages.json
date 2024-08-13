@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Łatwo to sprawdzić, znajdź nazwę czcionki używaną na dowolnej stronie internetowej"
+   },
+   "app_name": {
+      "message": "Znajdź czcionkę"
+   },
+   "browser_action": {
+      "message": "Kliknij raz, aby włączyć inspektora, a następnie przesuń mysz nad elementem. Kliknij klawisz ESC, aby zwolnić inspektora"
+   },
+   "context_copy": {
+      "message": "Skopiuj szczegóły czcionki"
+   },
+   "context_embed_mode": {
+      "message": "Otwórz w trybie osadzonym"
+   },
+   "context_find": {
+      "message": "Znajdź czcionki w tej ramce"
+   },
+   "context_page": {
+      "message": "Sprawdź czcionkę"
+   },
+   "context_replace": {
+      "message": "Zamień czcionkę na"
+   },
+   "context_selection": {
+      "message": "Przeanalizuj wybór"
+   },
+   "context_window_mode": {
+      "message": "Otwórz w trybie okna"
+   },
+   "options_copy": {
+      "message": "Pokaż pozycję menu kontekstowego „Kopiuj szczegóły czcionki”"
+   },
+   "options_faqs": {
+      "message": "Otwórz stronę często zadawanych pytań na temat aktualizacji"
+   },
+   "options_find": {
+      "message": "Pokaż pozycję menu kontekstowego „Znajdź czcionki w tej ramce”"
+   },
+   "options_page": {
+      "message": "Pokaż pozycję menu kontekstowego „Sprawdź czcionkę”"
+   },
+   "options_reload": {
+      "message": "Przeładować"
+   },
+   "options_replace": {
+      "message": "Pokaż element menu kontekstowego „Zamień czcionkę na”"
+   },
+   "options_reset": {
+      "message": "Przywrócenie ustawień fabrycznych"
+   },
+   "options_save": {
+      "message": "Zapisz Opcje"
+   },
+   "options_selection": {
+      "message": "Pokaż pozycję menu kontekstowego „Analizuj wybór”"
+   },
+   "options_support": {
+      "message": "Wsparcie rozwoju"
+   },
+   "window_class": {
+      "message": "Klasa elementu:"
+   },
+   "window_color": {
+      "message": "Kolor"
+   },
+   "window_decoration": {
+      "message": "Dekoracja / Transformacja"
+   },
+   "window_element": {
+      "message": "Szczegóły elementu"
+   },
+   "window_font": {
+      "message": "Czcionka"
+   },
+   "window_id": {
+      "message": "ID elementu:"
+   },
+   "window_inspect": {
+      "message": "Dozorujący:"
+   },
+   "window_rendered": {
+      "message": "Renderowana czcionka:"
+   },
+   "window_spacing": {
+      "message": "Rozstaw"
+   },
+   "window_title": {
+      "message": "Inspector :: Font Finder"
+   },
+   "window_type": {
+      "message": "Typ elementu:"
+   }
+}

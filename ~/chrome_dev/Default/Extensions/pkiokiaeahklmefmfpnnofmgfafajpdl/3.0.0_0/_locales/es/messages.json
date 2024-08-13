@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Fácil de verificar, encuentre el nombre de la fuente utilizada en cualquier sitio web"
+   },
+   "app_name": {
+      "message": "Buscar fuente"
+   },
+   "browser_action": {
+      "message": "Haga clic una vez para habilitar el inspector, luego mueva el mouse sobre el elemento. Haga clic en la tecla ESC para liberar el inspector."
+   },
+   "context_copy": {
+      "message": "Copiar detalles de fuente"
+   },
+   "context_embed_mode": {
+      "message": "Abrir en modo incrustado"
+   },
+   "context_find": {
+      "message": "Encuentra fuentes en este marco"
+   },
+   "context_page": {
+      "message": "Inspeccionar fuente"
+   },
+   "context_replace": {
+      "message": "Reemplazar fuente con"
+   },
+   "context_selection": {
+      "message": "Analizar selección"
+   },
+   "context_window_mode": {
+      "message": "Abrir en modo ventana"
+   },
+   "options_copy": {
+      "message": "Mostrar el elemento del menú contextual 'Copiar detalles de fuente'"
+   },
+   "options_faqs": {
+      "message": "Abrir la página de preguntas frecuentes sobre actualizaciones"
+   },
+   "options_find": {
+      "message": "Mostrar el elemento del menú contextual 'Buscar fuentes en este marco'"
+   },
+   "options_page": {
+      "message": "Mostrar elemento de menú contextual 'Inspeccionar fuente'"
+   },
+   "options_reload": {
+      "message": "Recargar"
+   },
+   "options_replace": {
+      "message": "Mostrar elemento de menú contextual 'Reemplazar fuente con'"
+   },
+   "options_reset": {
+      "message": "Restablecimiento de fábrica"
+   },
+   "options_save": {
+      "message": "Guardar opciones"
+   },
+   "options_selection": {
+      "message": "Mostrar elemento de menú contextual 'Analizar selección'"
+   },
+   "options_support": {
+      "message": "Desarrollo de soporte"
+   },
+   "window_class": {
+      "message": "Clase de elemento:"
+   },
+   "window_color": {
+      "message": "Color"
+   },
+   "window_decoration": {
+      "message": "Decoración / Transformación"
+   },
+   "window_element": {
+      "message": "Detalles del elemento"
+   },
+   "window_font": {
+      "message": "Fuente"
+   },
+   "window_id": {
+      "message": "ID del elemento:"
+   },
+   "window_inspect": {
+      "message": "Inspeccionando:"
+   },
+   "window_rendered": {
+      "message": "Fuente renderizada:"
+   },
+   "window_spacing": {
+      "message": "Espaciado"
+   },
+   "window_title": {
+      "message": "Inspector :: Buscador de fuentes"
+   },
+   "window_type": {
+      "message": "Tipo de elemento:"
+   }
+}

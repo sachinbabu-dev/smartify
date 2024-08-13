@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Jednostavno provjeriti, pronađite naziv fonta koji se koristi na bilo kojoj web stranici"
+   },
+   "app_name": {
+      "message": "Pronađite font"
+   },
+   "browser_action": {
+      "message": "Kliknite jednom da biste omogućili inspektoru, a zatim pomaknite miša preko elementa. Kliknite tipku ESC da biste oslobodili inspektor"
+   },
+   "context_copy": {
+      "message": "Kopirajte detalje slova"
+   },
+   "context_embed_mode": {
+      "message": "Otvori u ugrađenom načinu"
+   },
+   "context_find": {
+      "message": "Pronađite fontove u ovom okviru"
+   },
+   "context_page": {
+      "message": "Pregledajte font"
+   },
+   "context_replace": {
+      "message": "Zamijenite font sa"
+   },
+   "context_selection": {
+      "message": "Analizirajte odabir"
+   },
+   "context_window_mode": {
+      "message": "Otvori u načinu rada Window"
+   },
+   "options_copy": {
+      "message": "Prikaži stavku kontekstnog izbornika \"Kopiraj pojedinosti o fontu\""
+   },
+   "options_faqs": {
+      "message": "Otvorite stranicu Često postavljana pitanja o ažuriranjima"
+   },
+   "options_find": {
+      "message": "Prikaži stavku kontekstnog izbornika \"Pronađi fontove u ovom okviru\""
+   },
+   "options_page": {
+      "message": "Prikažite stavku kontekstnog izbornika \"Upoznaj font\""
+   },
+   "options_reload": {
+      "message": "Ponovno učitati"
+   },
+   "options_replace": {
+      "message": "Prikaži \"Zamijeni font sa\" stavkom kontekstnog izbornika"
+   },
+   "options_reset": {
+      "message": "Poništavanje tvornice"
+   },
+   "options_save": {
+      "message": "Spremi opcije"
+   },
+   "options_selection": {
+      "message": "Prikaži stavku kontekstnog izbornika \"Analiziraj odabir\""
+   },
+   "options_support": {
+      "message": "Podrška razvoju"
+   },
+   "window_class": {
+      "message": "Klasa elemenata:"
+   },
+   "window_color": {
+      "message": "Boja"
+   },
+   "window_decoration": {
+      "message": "Dekoracija / transformacija"
+   },
+   "window_element": {
+      "message": "Pojedinosti o elementu"
+   },
+   "window_font": {
+      "message": "krstionica"
+   },
+   "window_id": {
+      "message": "ID elementa:"
+   },
+   "window_inspect": {
+      "message": "Provjera:"
+   },
+   "window_rendered": {
+      "message": "Font se prikazuje:"
+   },
+   "window_spacing": {
+      "message": "razmak"
+   },
+   "window_title": {
+      "message": "Inspektor :: Tražilica fontova"
+   },
+   "window_type": {
+      "message": "Vrsta elementa:"
+   }
+}

@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Mudah diperiksa, cari nama font yang digunakan di situs web mana pun"
+   },
+   "app_name": {
+      "message": "Temukan Font"
+   },
+   "browser_action": {
+      "message": "Klik sekali untuk mengaktifkan inspektur, lalu gerakkan mouse Anda ke atas elemen. Klik kunci ESC untuk melepaskan inspektur"
+   },
+   "context_copy": {
+      "message": "Salin Detail Huruf"
+   },
+   "context_embed_mode": {
+      "message": "Buka dalam mode Tertanam"
+   },
+   "context_find": {
+      "message": "Temukan Font di Bingkai ini"
+   },
+   "context_page": {
+      "message": "Periksa Font"
+   },
+   "context_replace": {
+      "message": "Ganti Font dengan"
+   },
+   "context_selection": {
+      "message": "Menganalisis Seleksi"
+   },
+   "context_window_mode": {
+      "message": "Buka dalam mode Window"
+   },
+   "options_copy": {
+      "message": "Tampilkan item menu konteks 'Salin Detail Huruf'"
+   },
+   "options_faqs": {
+      "message": "Buka halaman FAQ tentang pembaruan"
+   },
+   "options_find": {
+      "message": "Perlihatkan item menu konteks 'Temukan Huruf dalam Bingkai ini'"
+   },
+   "options_page": {
+      "message": "Tampilkan item menu konteks 'Periksa Font'"
+   },
+   "options_reload": {
+      "message": "Muat ulang"
+   },
+   "options_replace": {
+      "message": "Tampilkan 'Ganti Font dengan' item menu konteks"
+   },
+   "options_reset": {
+      "message": "Reset Pabrik"
+   },
+   "options_save": {
+      "message": "Simpan Opsi"
+   },
+   "options_selection": {
+      "message": "Tampilkan item menu konteks 'Analisis Pemilihan'"
+   },
+   "options_support": {
+      "message": "Mendukung Pengembangan"
+   },
+   "window_class": {
+      "message": "Kelas Elemen:"
+   },
+   "window_color": {
+      "message": "Warna"
+   },
+   "window_decoration": {
+      "message": "Dekorasi / Transformasi"
+   },
+   "window_element": {
+      "message": "Detail Elemen"
+   },
+   "window_font": {
+      "message": "Font"
+   },
+   "window_id": {
+      "message": "ID Elemen:"
+   },
+   "window_inspect": {
+      "message": "Memeriksa:"
+   },
+   "window_rendered": {
+      "message": "Font yang diterjemahkan:"
+   },
+   "window_spacing": {
+      "message": "Jarak"
+   },
+   "window_title": {
+      "message": "Inspektur :: Pencari Font"
+   },
+   "window_type": {
+      "message": "Jenis elemen:"
+   }
+}

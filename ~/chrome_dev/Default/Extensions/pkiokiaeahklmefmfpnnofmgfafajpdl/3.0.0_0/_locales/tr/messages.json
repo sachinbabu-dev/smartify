@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Kontrol etmesi kolay, herhangi bir web sitesinde kullanılan font adını bulun"
+   },
+   "app_name": {
+      "message": "Yazı Tipi Bul"
+   },
+   "browser_action": {
+      "message": "Denetçiyi etkinleştirmek için bir kez tıklayın, ardından farenizi öğenin üzerine getirin. Denetçiyi serbest bırakmak için ESC tuşuna basın"
+   },
+   "context_copy": {
+      "message": "Yazı Tipi Ayrıntılarını Kopyala"
+   },
+   "context_embed_mode": {
+      "message": "Gömülü modda aç"
+   },
+   "context_find": {
+      "message": "Bu Çerçevede Yazı Tiplerini Bul"
+   },
+   "context_page": {
+      "message": "Yazı Tipini Denetle"
+   },
+   "context_replace": {
+      "message": "Yazı tipini değiştir"
+   },
+   "context_selection": {
+      "message": "Seçimi Analiz Et"
+   },
+   "context_window_mode": {
+      "message": "Pencere modunda aç"
+   },
+   "options_copy": {
+      "message": "'Yazı Tipi Ayrıntılarını Kopyala' bağlam menüsü öğesini göster"
+   },
+   "options_faqs": {
+      "message": "Güncellemeler hakkında SSS sayfasını aç"
+   },
+   "options_find": {
+      "message": "'Bu Çerçevede Yazı Tiplerini Bul' içerik menüsü öğesini göster"
+   },
+   "options_page": {
+      "message": "'Yazı Tipini Denetle' içerik menüsü öğesini göster"
+   },
+   "options_reload": {
+      "message": "Tekrar yükle"
+   },
+   "options_replace": {
+      "message": "'Yazı Tipi ile Değiştir' bağlam menüsü öğesini göster"
+   },
+   "options_reset": {
+      "message": "Fabrika ayarları"
+   },
+   "options_save": {
+      "message": "Seçenekleri Kaydet"
+   },
+   "options_selection": {
+      "message": "'Seçimi Analiz Et' içerik menüsü öğesini göster"
+   },
+   "options_support": {
+      "message": "Destek Geliştirme"
+   },
+   "window_class": {
+      "message": "Öğe sınıfı:"
+   },
+   "window_color": {
+      "message": "Renk"
+   },
+   "window_decoration": {
+      "message": "Dekorasyon / Dönüşüm"
+   },
+   "window_element": {
+      "message": "Öğe Ayrıntıları"
+   },
+   "window_font": {
+      "message": "Yazı tipi"
+   },
+   "window_id": {
+      "message": "Öğe Kimliği:"
+   },
+   "window_inspect": {
+      "message": "incelenmesi:"
+   },
+   "window_rendered": {
+      "message": "Oluşturulan yazı tipi:"
+   },
+   "window_spacing": {
+      "message": "aralık"
+   },
+   "window_title": {
+      "message": "Müfettiş :: Yazı Tipi Bulucu"
+   },
+   "window_type": {
+      "message": "Öğe Türü:"
+   }
+}

@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Enkelt å sjekke, finn fontnavnet som brukes på hvilken som helst webside"
+   },
+   "app_name": {
+      "message": "Finn font"
+   },
+   "browser_action": {
+      "message": "Klikk en gang for å aktivere inspektøren, og flytt deretter musen over elementet. Klikk på ESC-tasten for å frigjøre inspektøren"
+   },
+   "context_copy": {
+      "message": "Kopier fontdetaljer"
+   },
+   "context_embed_mode": {
+      "message": "Åpent i innebygd modus"
+   },
+   "context_find": {
+      "message": "Finn skrifter i denne rammen"
+   },
+   "context_page": {
+      "message": "Inspiser font"
+   },
+   "context_replace": {
+      "message": "Erstatt font med"
+   },
+   "context_selection": {
+      "message": "Analyser valg"
+   },
+   "context_window_mode": {
+      "message": "Åpne i vindusmodus"
+   },
+   "options_copy": {
+      "message": "Vis 'Copy Font Details' kontekstmenyelement"
+   },
+   "options_faqs": {
+      "message": "Åpne FAQ-siden for oppdateringer"
+   },
+   "options_find": {
+      "message": "Vis kontekstmenyelementet \"Finn skrifter i denne rammen\""
+   },
+   "options_page": {
+      "message": "Vis \"Inspiser font\" -kontekstmenyelement"
+   },
+   "options_reload": {
+      "message": "Last"
+   },
+   "options_replace": {
+      "message": "Vis kontekstmenyelementet 'Erstatt skrift med'"
+   },
+   "options_reset": {
+      "message": "Tilbakestill fabrikk"
+   },
+   "options_save": {
+      "message": "Lagre alternativer"
+   },
+   "options_selection": {
+      "message": "Vis kontekstmenyelement \"Analyser utvalg\""
+   },
+   "options_support": {
+      "message": "Støtteutvikling"
+   },
+   "window_class": {
+      "message": "Elementklasse:"
+   },
+   "window_color": {
+      "message": "Farge"
+   },
+   "window_decoration": {
+      "message": "Dekorasjon / transformasjon"
+   },
+   "window_element": {
+      "message": "Elementdetaljer"
+   },
+   "window_font": {
+      "message": "Font"
+   },
+   "window_id": {
+      "message": "Element-ID:"
+   },
+   "window_inspect": {
+      "message": "inspeksjon:"
+   },
+   "window_rendered": {
+      "message": "Font som blir gjengitt:"
+   },
+   "window_spacing": {
+      "message": "Spacing"
+   },
+   "window_title": {
+      "message": "Inspektør :: Font Finder"
+   },
+   "window_type": {
+      "message": "Elementtype:"
+   }
+}

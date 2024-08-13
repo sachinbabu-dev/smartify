@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Lihtne kontrollida, leidke suvaliselt veebisaidilt kasutatav fontinimi"
+   },
+   "app_name": {
+      "message": "Leia font"
+   },
+   "browser_action": {
+      "message": "Inspektori lubamiseks klõpsake üks kord, seejärel liigutage hiirega üle elemendi. Inspektori vabastamiseks klõpsake nuppu ESC"
+   },
+   "context_copy": {
+      "message": "Kopeeri fondi üksikasjad"
+   },
+   "context_embed_mode": {
+      "message": "Avatud manustatud režiimis"
+   },
+   "context_find": {
+      "message": "Selles kaadris leiate fonte"
+   },
+   "context_page": {
+      "message": "Kontrollige fonti"
+   },
+   "context_replace": {
+      "message": "Asenda font font"
+   },
+   "context_selection": {
+      "message": "Analüüsige valikut"
+   },
+   "context_window_mode": {
+      "message": "Avage aknarežiimis"
+   },
+   "options_copy": {
+      "message": "Kuva kontekstimenüü element „Kopeeri fondi üksikasjad”"
+   },
+   "options_faqs": {
+      "message": "Avage värskenduste leht KKK"
+   },
+   "options_find": {
+      "message": "Kuvage kontekstimenüü element „Leia fonte sellest raamist”"
+   },
+   "options_page": {
+      "message": "Kuvage kontekstimenüü element „Kontrolli fonti”"
+   },
+   "options_reload": {
+      "message": "Laadige uuesti"
+   },
+   "options_replace": {
+      "message": "Kuvage kontekstimenüü element „Asenda font fontidega“"
+   },
+   "options_reset": {
+      "message": "Tehaseseadete taastamine"
+   },
+   "options_save": {
+      "message": "Salvesta valikud"
+   },
+   "options_selection": {
+      "message": "Kuva kontekstimenüü üksus 'Analüüsi valikut'"
+   },
+   "options_support": {
+      "message": "Tugi arendamine"
+   },
+   "window_class": {
+      "message": "Elementide klass:"
+   },
+   "window_color": {
+      "message": "värv"
+   },
+   "window_decoration": {
+      "message": "Dekoratsioon / ümberkujundamine"
+   },
+   "window_element": {
+      "message": "Elemendi üksikasjad"
+   },
+   "window_font": {
+      "message": "Font"
+   },
+   "window_id": {
+      "message": "Elemendi ID:"
+   },
+   "window_inspect": {
+      "message": "Kontrollimine:"
+   },
+   "window_rendered": {
+      "message": "Renteeritav font:"
+   },
+   "window_spacing": {
+      "message": "Vahed"
+   },
+   "window_title": {
+      "message": "Inspektor :: Fondiotsija"
+   },
+   "window_type": {
+      "message": "Elemendi tüüp:"
+   }
+}

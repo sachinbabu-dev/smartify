@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Lengva patikrinti, raskite šrifto pavadinimą, naudojamą bet kurioje svetainėje"
+   },
+   "app_name": {
+      "message": "Rasti šriftą"
+   },
+   "browser_action": {
+      "message": "Spustelėkite vieną kartą, kad įjungtumėte inspektorių, tada perkelkite pelę virš elemento. Spustelėkite ESC mygtuką, kad paleistumėte inspektorių"
+   },
+   "context_copy": {
+      "message": "Kopijuoti informaciją apie šriftą"
+   },
+   "context_embed_mode": {
+      "message": "Atidaryti įterptuoju režimu"
+   },
+   "context_find": {
+      "message": "Šiame kadre raskite šriftus"
+   },
+   "context_page": {
+      "message": "Apžiūrėkite šriftą"
+   },
+   "context_replace": {
+      "message": "Pakeiskite šriftą į"
+   },
+   "context_selection": {
+      "message": "Išanalizuokite pasirinkimą"
+   },
+   "context_window_mode": {
+      "message": "Atidaryti lango režimu"
+   },
+   "options_copy": {
+      "message": "Rodyti kontekstinio meniu elementą „Kopijuoti šrifto informaciją“"
+   },
+   "options_faqs": {
+      "message": "Atidarykite DUK puslapį apie atnaujinimus"
+   },
+   "options_find": {
+      "message": "Rodyti kontekstinio meniu punktą „Rasti šriftus šiame kadre“"
+   },
+   "options_page": {
+      "message": "Rodyti kontekstinio meniu elementą „Apžiūrėti šriftą“"
+   },
+   "options_reload": {
+      "message": "Perkrauti iš naujo"
+   },
+   "options_replace": {
+      "message": "Rodyti kontekstinio meniu punktą „Pakeisti šriftą“"
+   },
+   "options_reset": {
+      "message": "Gamykliniai nustatymai"
+   },
+   "options_save": {
+      "message": "Išsaugoti parinktis"
+   },
+   "options_selection": {
+      "message": "Rodyti kontekstinio meniu elementą „Analizuoti pasirinkimą“"
+   },
+   "options_support": {
+      "message": "Paramos plėtra"
+   },
+   "window_class": {
+      "message": "Elementų klasė:"
+   },
+   "window_color": {
+      "message": "spalva"
+   },
+   "window_decoration": {
+      "message": "Puošyba / transformacija"
+   },
+   "window_element": {
+      "message": "Informacija apie elementą"
+   },
+   "window_font": {
+      "message": "Šriftas"
+   },
+   "window_id": {
+      "message": "Elemento ID:"
+   },
+   "window_inspect": {
+      "message": "Tikrinimas:"
+   },
+   "window_rendered": {
+      "message": "Pateikiamas šriftas:"
+   },
+   "window_spacing": {
+      "message": "Tarpai"
+   },
+   "window_title": {
+      "message": "Inspektorius :: Šriftų ieškiklis"
+   },
+   "window_type": {
+      "message": "Elemento tipas:"
+   }
+}

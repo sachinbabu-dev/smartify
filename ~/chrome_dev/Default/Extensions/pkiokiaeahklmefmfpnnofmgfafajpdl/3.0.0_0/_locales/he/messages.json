@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "קל לבדוק, מצא את שם הגופן המשמש בכל אתר אינטרנט"
+   },
+   "app_name": {
+      "message": "מצא גופן"
+   },
+   "browser_action": {
+      "message": "לחץ פעם אחת כדי לאפשר את הפקח, ואז העביר את העכבר מעל הרכיב. לחץ על מקש ESC כדי לשחרר את הפקח"
+   },
+   "context_copy": {
+      "message": "העתק פרטי גופן"
+   },
+   "context_embed_mode": {
+      "message": "פתוח במצב משובץ"
+   },
+   "context_find": {
+      "message": "מצא גופנים במסגרת זו"
+   },
+   "context_page": {
+      "message": "בדוק את הגופן"
+   },
+   "context_replace": {
+      "message": "החלף את הגופן ב-"
+   },
+   "context_selection": {
+      "message": "ניתוח הבחירה"
+   },
+   "context_window_mode": {
+      "message": "פתח במצב חלון"
+   },
+   "options_copy": {
+      "message": "הצג את פריט תפריט ההקשר 'העתק פרטי גופן'"
+   },
+   "options_faqs": {
+      "message": "פתח את עמוד השאלות הנפוצות בנושא עדכונים"
+   },
+   "options_find": {
+      "message": "הצג פריט בתפריט ההקשר 'מצא גופנים במסגרת זו'"
+   },
+   "options_page": {
+      "message": "הצג פריט בתפריט ההקשר 'בדוק גופן'"
+   },
+   "options_reload": {
+      "message": "טען מחדש"
+   },
+   "options_replace": {
+      "message": "הצג את פריט תפריט ההקשר 'החלף גופן ב-'"
+   },
+   "options_reset": {
+      "message": "איפוס מפעל"
+   },
+   "options_save": {
+      "message": "שמור אפשרויות"
+   },
+   "options_selection": {
+      "message": "הצג פריט בתפריט ההקשר 'נתח בחירה'"
+   },
+   "options_support": {
+      "message": "פיתוח תמיכה"
+   },
+   "window_class": {
+      "message": "כיתת אלמנטים:"
+   },
+   "window_color": {
+      "message": "צֶבַע"
+   },
+   "window_decoration": {
+      "message": "קישוט / טרנספורמציה"
+   },
+   "window_element": {
+      "message": "פרטי רכיב"
+   },
+   "window_font": {
+      "message": "גופן"
+   },
+   "window_id": {
+      "message": "מזהה רכיב:"
+   },
+   "window_inspect": {
+      "message": "בודק:"
+   },
+   "window_rendered": {
+      "message": "הגופן הניתן:"
+   },
+   "window_spacing": {
+      "message": "ריווח"
+   },
+   "window_title": {
+      "message": "מפקח :: Finder Font"
+   },
+   "window_type": {
+      "message": "סוג האלמנט:"
+   }
+}

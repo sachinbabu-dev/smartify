@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Легко перевірити, знайти ім'я шрифту, яке використовується на будь-якому веб-сайті"
+   },
+   "app_name": {
+      "message": "Знайдіть шрифт"
+   },
+   "browser_action": {
+      "message": "Клацніть один раз, щоб увімкнути інспектор, а потім перемістіть курсор миші на елемент. Клацніть клавішу ESC, щоб звільнити інспектора"
+   },
+   "context_copy": {
+      "message": "Скопіюйте деталі шрифту"
+   },
+   "context_embed_mode": {
+      "message": "Відкрити у вбудованому режимі"
+   },
+   "context_find": {
+      "message": "Знайдіть шрифти в цьому кадрі"
+   },
+   "context_page": {
+      "message": "Огляньте шрифт"
+   },
+   "context_replace": {
+      "message": "Замініть шрифт на"
+   },
+   "context_selection": {
+      "message": "Проаналізуйте вибір"
+   },
+   "context_window_mode": {
+      "message": "Відкрити в режимі Вікна"
+   },
+   "options_copy": {
+      "message": "Показати пункт контекстного меню \"Копіювати деталі шрифту\""
+   },
+   "options_faqs": {
+      "message": "Відкрийте сторінку поширених запитань про оновлення"
+   },
+   "options_find": {
+      "message": "Показати пункт «Шрифти в цьому кадрі»"
+   },
+   "options_page": {
+      "message": "Показати пункт контекстного меню \"Перевірити шрифт\""
+   },
+   "options_reload": {
+      "message": "Перезавантажити"
+   },
+   "options_replace": {
+      "message": "Показати \"Замінити шрифт\" на пункт контекстного меню"
+   },
+   "options_reset": {
+      "message": "Заводські налаштування"
+   },
+   "options_save": {
+      "message": "Параметри збереження"
+   },
+   "options_selection": {
+      "message": "Показати пункт контекстного меню \"Аналіз вибору\""
+   },
+   "options_support": {
+      "message": "Підтримка розвитку"
+   },
+   "window_class": {
+      "message": "Клас елементів:"
+   },
+   "window_color": {
+      "message": "колір"
+   },
+   "window_decoration": {
+      "message": "Прикраса / трансформація"
+   },
+   "window_element": {
+      "message": "Деталі елемента"
+   },
+   "window_font": {
+      "message": "Шрифт"
+   },
+   "window_id": {
+      "message": "Ідентифікатор елемента:"
+   },
+   "window_inspect": {
+      "message": "Перевірка:"
+   },
+   "window_rendered": {
+      "message": "Шрифт виводиться:"
+   },
+   "window_spacing": {
+      "message": "Пробіл"
+   },
+   "window_title": {
+      "message": "Інспектор :: Шрифт"
+   },
+   "window_type": {
+      "message": "Тип елемента:"
+   }
+}

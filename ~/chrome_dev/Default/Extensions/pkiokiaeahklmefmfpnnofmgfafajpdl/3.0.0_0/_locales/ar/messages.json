@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "من السهل التحقق ، ابحث عن اسم الخط المستخدم في أي موقع ويب"
+   },
+   "app_name": {
+      "message": "البحث عن الخط"
+   },
+   "browser_action": {
+      "message": "انقر مرة واحدة لتمكين المفتش ، ثم حرك الماوس فوق العنصر. انقر فوق المفتاح ESC لتحرير المفتش"
+   },
+   "context_copy": {
+      "message": "نسخ تفاصيل الخط"
+   },
+   "context_embed_mode": {
+      "message": "فتح في الوضع المضمن"
+   },
+   "context_find": {
+      "message": "العثور على الخطوط في هذا الإطار"
+   },
+   "context_page": {
+      "message": "فحص الخط"
+   },
+   "context_replace": {
+      "message": "استبدال الخط بـ"
+   },
+   "context_selection": {
+      "message": "تحليل الاختيار"
+   },
+   "context_window_mode": {
+      "message": "فتح في وضع النافذة"
+   },
+   "options_copy": {
+      "message": "إظهار عنصر قائمة السياق \"نسخ تفاصيل الخط\""
+   },
+   "options_faqs": {
+      "message": "افتح صفحة الأسئلة الشائعة حول التحديثات"
+   },
+   "options_find": {
+      "message": "إظهار عنصر قائمة السياق \"العثور على خطوط في هذا الإطار\""
+   },
+   "options_page": {
+      "message": "إظهار عنصر قائمة سياق \"فحص الخط\""
+   },
+   "options_reload": {
+      "message": "إعادة تحميل"
+   },
+   "options_replace": {
+      "message": "إظهار عنصر قائمة السياق \"استبدال الخط بـ\""
+   },
+   "options_reset": {
+      "message": "اعدادات المصنع"
+   },
+   "options_save": {
+      "message": "حفظ الخيارات"
+   },
+   "options_selection": {
+      "message": "إظهار عنصر قائمة السياق \"تحليل التحديد\""
+   },
+   "options_support": {
+      "message": "دعم التنمية"
+   },
+   "window_class": {
+      "message": "فئة العنصر:"
+   },
+   "window_color": {
+      "message": "اللون"
+   },
+   "window_decoration": {
+      "message": "الديكور / التحول"
+   },
+   "window_element": {
+      "message": "تفاصيل العنصر"
+   },
+   "window_font": {
+      "message": "الخط"
+   },
+   "window_id": {
+      "message": "معرف العنصر:"
+   },
+   "window_inspect": {
+      "message": "التفتيش:"
+   },
+   "window_rendered": {
+      "message": "يتم عرض الخط:"
+   },
+   "window_spacing": {
+      "message": "مباعدة"
+   },
+   "window_title": {
+      "message": "المفتش :: مكتشف الخط"
+   },
+   "window_type": {
+      "message": "نوع العنصر:"
+   }
+}

@@ -1,0 +1,34 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "icon16.png"
+      },
+      "default_title": "Measure Everything"
+   },
+   "author": "Marat Dulin",
+   "background": {
+      "service_worker": "js/background.js",
+      "type": "module"
+   },
+   "commands": {
+      "toggle-measure-everything": {
+         "description": "Toggles Measure Everything",
+         "suggested_key": {
+            "default": "Alt+Shift+M",
+            "mac": "Alt+Shift+M"
+         }
+      }
+   },
+   "description": "Element distance measurement tool.",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzNWv7IDB8gHtL2gcHZGcjlA4QeyWb1NWAHe7n3PJEynvG7Wmwb98jyYda0d97SWVTKbW8DnqFOBXuxqwgZwMo2s+J3SWnLMHI/x2QTDW0WCa1u0vBfs0WTxpEMddxcXUZnCIcek/777iIWDGEUphIMRPCauyvU2+z8LWS5v1yFP3S1uuY7HnxCEtfaGHCw6dqAYAlo39xRt0jYAeb9DxPGBasu0LDNxhLK2yJqaCZyOG/H3mnmSKSLACFBqsGYLGLr8E6ne0ZgzWD5e+cMPmtlRXADk4+y+PC5GaXvGpa1peedB+GRBNm05ZczjE2Le8LD3HHXW+Dc9vCZMB2janXQIDAQAB",
+   "manifest_version": 3,
+   "name": "Measure Everything",
+   "permissions": [ "activeTab", "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.0"
+}

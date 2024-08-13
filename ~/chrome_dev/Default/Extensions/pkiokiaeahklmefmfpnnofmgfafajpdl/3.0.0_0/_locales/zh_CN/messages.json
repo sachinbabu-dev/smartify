@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "易于检查，找到任何网站上使用的字体名称"
+   },
+   "app_name": {
+      "message": "查找字体"
+   },
+   "browser_action": {
+      "message": "单击一次以启用检查器，然后将鼠标移到元素上。单击ESC键以释放检查器"
+   },
+   "context_copy": {
+      "message": "复制字体细节"
+   },
+   "context_embed_mode": {
+      "message": "在嵌入模式下打开"
+   },
+   "context_find": {
+      "message": "在此框架中查找字体"
+   },
+   "context_page": {
+      "message": "检查字体"
+   },
+   "context_replace": {
+      "message": "替换字体"
+   },
+   "context_selection": {
+      "message": "分析选择"
+   },
+   "context_window_mode": {
+      "message": "在窗口模式下打开"
+   },
+   "options_copy": {
+      "message": "显示“复制字体详细信息”上下文菜单项"
+   },
+   "options_faqs": {
+      "message": "打开有关更新的常见问题页面"
+   },
+   "options_find": {
+      "message": "显示“在此框架中查找字体”上下文菜单项"
+   },
+   "options_page": {
+      "message": "显示'Inspect Font'上下文菜单项"
+   },
+   "options_reload": {
+      "message": "刷新"
+   },
+   "options_replace": {
+      "message": "显示'替换字体'上下文菜单项"
+   },
+   "options_reset": {
+      "message": "出厂重置"
+   },
+   "options_save": {
+      "message": "保存选项"
+   },
+   "options_selection": {
+      "message": "显示“分析选择”上下文菜单项"
+   },
+   "options_support": {
+      "message": "支持发展"
+   },
+   "window_class": {
+      "message": "元素类："
+   },
+   "window_color": {
+      "message": "颜色"
+   },
+   "window_decoration": {
+      "message": "装饰/改造"
+   },
+   "window_element": {
+      "message": "元素细节"
+   },
+   "window_font": {
+      "message": "字形"
+   },
+   "window_id": {
+      "message": "元素ID："
+   },
+   "window_inspect": {
+      "message": "检查："
+   },
+   "window_rendered": {
+      "message": "正在呈现的字体："
+   },
+   "window_spacing": {
+      "message": "间距"
+   },
+   "window_title": {
+      "message": "Inspector :: Font Finder"
+   },
+   "window_type": {
+      "message": "元素类型："
+   }
+}

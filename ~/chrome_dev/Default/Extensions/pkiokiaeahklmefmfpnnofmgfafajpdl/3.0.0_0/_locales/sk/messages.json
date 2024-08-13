@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Ľahko skontrolovať, nájsť názov písma použitého na akejkoľvek webovej stránke"
+   },
+   "app_name": {
+      "message": "Nájsť písmo"
+   },
+   "browser_action": {
+      "message": "Jedným kliknutím aktivujete inšpektor a potom pohnete myšou po prvku. Kliknutím na kláves ESC uvoľníte inšpektora"
+   },
+   "context_copy": {
+      "message": "Kopírovanie detailov písma"
+   },
+   "context_embed_mode": {
+      "message": "Otvoriť v zabudovanom režime"
+   },
+   "context_find": {
+      "message": "Vyhľadajte písma v tomto rámci"
+   },
+   "context_page": {
+      "message": "Skontrolujte písmo"
+   },
+   "context_replace": {
+      "message": "Nahraďte písmo"
+   },
+   "context_selection": {
+      "message": "Analyzujte výber"
+   },
+   "context_window_mode": {
+      "message": "Otvoriť v režime okna"
+   },
+   "options_copy": {
+      "message": "Zobraziť položku kontextovej ponuky „Kopírovať podrobnosti písma“"
+   },
+   "options_faqs": {
+      "message": "Otvorte stránku Časté otázky o aktualizáciách"
+   },
+   "options_find": {
+      "message": "Zobraziť položku kontextovej ponuky „Nájsť písma v tomto rámci“"
+   },
+   "options_page": {
+      "message": "Zobraziť položku kontextového menu „Skontrolovať písmo“"
+   },
+   "options_reload": {
+      "message": "obnoviť"
+   },
+   "options_replace": {
+      "message": "Zobraziť položku kontextového menu „Nahradiť písmo“"
+   },
+   "options_reset": {
+      "message": "Obnovenie továrenských nastavení"
+   },
+   "options_save": {
+      "message": "Možnosti uloženia"
+   },
+   "options_selection": {
+      "message": "Zobraziť položku kontextového menu „Analyzovať výber“"
+   },
+   "options_support": {
+      "message": "Podporte rozvoj"
+   },
+   "window_class": {
+      "message": "Trieda prvkov:"
+   },
+   "window_color": {
+      "message": "farba"
+   },
+   "window_decoration": {
+      "message": "Dekorácie / transformácie"
+   },
+   "window_element": {
+      "message": "Podrobnosti prvku"
+   },
+   "window_font": {
+      "message": "font"
+   },
+   "window_id": {
+      "message": "ID prvku:"
+   },
+   "window_inspect": {
+      "message": "kontrola:"
+   },
+   "window_rendered": {
+      "message": "Vykreslenie písma:"
+   },
+   "window_spacing": {
+      "message": "riadkovanie"
+   },
+   "window_title": {
+      "message": "Inšpektor :: Vyhľadávač písma"
+   },
+   "window_type": {
+      "message": "Typ prvku:"
+   }
+}

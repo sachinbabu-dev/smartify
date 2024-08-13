@@ -1,0 +1,92 @@
+{
+   "app_description": {
+      "message": "چیک کرنے میں آسان ، کسی بھی ویب سائٹ پر استعمال شدہ فونٹ کا نام تلاش کریں۔"
+   },
+   "browser_action": {
+      "message": "انسپکٹر کو اہل بنانے کے لئے ایک بار کلک کریں ، پھر اپنے ماؤس کو عنصر کے اوپر منتقل کریں۔ انسپکٹر کی رہائی کے لئے ESC کی کلک کریں۔"
+   },
+   "context_copy": {
+      "message": "فونٹ کی تفصیلات کاپی کریں۔"
+   },
+   "context_embed_mode": {
+      "message": "ایمبیڈڈ وضع میں کھولیں۔"
+   },
+   "context_find": {
+      "message": "اس فریم میں فونٹس تلاش کریں۔"
+   },
+   "context_page": {
+      "message": "فونٹ کا معائنہ کریں"
+   },
+   "context_replace": {
+      "message": "فونٹ کی جگہ لے لے۔"
+   },
+   "context_selection": {
+      "message": "انتخاب کا تجزیہ کریں۔"
+   },
+   "context_window_mode": {
+      "message": "ونڈو وضع میں کھولیں۔"
+   },
+   "options_copy": {
+      "message": "سیاق و سباق کے مینو آئٹم میں 'کاپی فونٹ تفصیلات' دکھائیں۔"
+   },
+   "options_faqs": {
+      "message": "تازہ کاریوں پر سوالات کے صفحے کو کھولیں۔"
+   },
+   "options_find": {
+      "message": "سیاق و سباق کے مینو آئٹم میں 'اس فریم میں فانٹ تلاش کریں' دکھائیں۔"
+   },
+   "options_page": {
+      "message": "'انسپیکٹ فونٹ' سیاق و سباق کے مینو آئٹم کو دکھائیں۔"
+   },
+   "options_reload": {
+      "message": "دوبارہ لوڈ کریں۔"
+   },
+   "options_replace": {
+      "message": "سیاق و سباق کے مینو آئٹم کے ساتھ 'فونٹ کو تبدیل کریں' دکھائیں۔"
+   },
+   "options_reset": {
+      "message": "از سرے نو ترتیب"
+   },
+   "options_save": {
+      "message": "اختیارات محفوظ کریں۔"
+   },
+   "options_selection": {
+      "message": "سیاق و سباق کے مینو آئٹم کو 'انتخاب کا تجزیہ کریں' دکھائیں۔"
+   },
+   "options_support": {
+      "message": "سپورٹ ڈویلپمنٹ۔"
+   },
+   "window_class": {
+      "message": "عنصر کلاس:"
+   },
+   "window_color": {
+      "message": "رنگ"
+   },
+   "window_decoration": {
+      "message": "سجاوٹ / تبدیلی"
+   },
+   "window_element": {
+      "message": "عنصر کی تفصیلات"
+   },
+   "window_font": {
+      "message": "فونٹ"
+   },
+   "window_id": {
+      "message": "عنصر کی شناخت:"
+   },
+   "window_inspect": {
+      "message": "معائنہ:"
+   },
+   "window_rendered": {
+      "message": "فونٹ مہیا کیا جارہا ہے:"
+   },
+   "window_spacing": {
+      "message": "وقفہ کاری۔"
+   },
+   "window_title": {
+      "message": "انسپکٹر :: فونٹ فائنڈر۔"
+   },
+   "window_type": {
+      "message": "عنصر کی قسم:"
+   }
+}

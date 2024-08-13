@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "簡単に確認でき、ウェブサイトで使用されているフォント名を見つけることができます"
+   },
+   "app_name": {
+      "message": "フォントを探す"
+   },
+   "browser_action": {
+      "message": "一度クリックしてインスペクターを有効にし、要素の上にマウスを移動します。 ESCキーをクリックしてインスペクターを解放します"
+   },
+   "context_copy": {
+      "message": "フォントの詳細をコピー"
+   },
+   "context_embed_mode": {
+      "message": "埋め込みモードで開く"
+   },
+   "context_find": {
+      "message": "このフレームでフォントを見つける"
+   },
+   "context_page": {
+      "message": "フォントの検査"
+   },
+   "context_replace": {
+      "message": "フォントを置換"
+   },
+   "context_selection": {
+      "message": "選択の分析"
+   },
+   "context_window_mode": {
+      "message": "ウィンドウモードで開く"
+   },
+   "options_copy": {
+      "message": "「フォントの詳細をコピー」コンテキストメニュー項目を表示"
+   },
+   "options_faqs": {
+      "message": "アップデートに関するFAQページを開く"
+   },
+   "options_find": {
+      "message": "「このフレームのフォントを検索」コンテキストメニュー項目を表示"
+   },
+   "options_page": {
+      "message": "「フォントの検査」コンテキストメニュー項目を表示"
+   },
+   "options_reload": {
+      "message": "リロード"
+   },
+   "options_replace": {
+      "message": "「フォントを置換」コンテキストメニュー項目を表示"
+   },
+   "options_reset": {
+      "message": "工場リセット"
+   },
+   "options_save": {
+      "message": "保存オプション"
+   },
+   "options_selection": {
+      "message": "[選択の分析]コンテキストメニュー項目を表示する"
+   },
+   "options_support": {
+      "message": "開発支援"
+   },
+   "window_class": {
+      "message": "要素クラス："
+   },
+   "window_color": {
+      "message": "色"
+   },
+   "window_decoration": {
+      "message": "装飾/変形"
+   },
+   "window_element": {
+      "message": "要素の詳細"
+   },
+   "window_font": {
+      "message": "フォント"
+   },
+   "window_id": {
+      "message": "要素ID："
+   },
+   "window_inspect": {
+      "message": "検査中："
+   },
+   "window_rendered": {
+      "message": "レンダリングされるフォント："
+   },
+   "window_spacing": {
+      "message": "間隔"
+   },
+   "window_title": {
+      "message": "インスペクター:: Font Finder"
+   },
+   "window_type": {
+      "message": "要素タイプ："
+   }
+}

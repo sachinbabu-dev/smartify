@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Fàcil de comprovar, trobeu el nom de lletra utilitzat en qualsevol lloc web"
+   },
+   "app_name": {
+      "message": "Troba el tipus de lletra"
+   },
+   "browser_action": {
+      "message": "Feu clic una vegada per habilitar l'inspector i moveu el ratolí sobre l'element. Feu clic a la tecla ESC per alliberar l'inspector"
+   },
+   "context_copy": {
+      "message": "Copieu els detalls del tipus de lletra"
+   },
+   "context_embed_mode": {
+      "message": "Obert en mode incrustat"
+   },
+   "context_find": {
+      "message": "Cerqueu tipus de lletra en aquest marc"
+   },
+   "context_page": {
+      "message": "Inspeccioneu el tipus de lletra"
+   },
+   "context_replace": {
+      "message": "Substituïu el tipus de lletra per"
+   },
+   "context_selection": {
+      "message": "Analitzar la selecció"
+   },
+   "context_window_mode": {
+      "message": "Obre en mode Finestra"
+   },
+   "options_copy": {
+      "message": "Mostra l'opció del menú contextual \"Copia detalls de tipus de lletra\""
+   },
+   "options_faqs": {
+      "message": "Obriu la pàgina de preguntes freqüents sobre les actualitzacions"
+   },
+   "options_find": {
+      "message": "Mostra \"Troba tipus de lletra en aquest marc\""
+   },
+   "options_page": {
+      "message": "Mostra el tema del menú contextual \"Inspecciona font\""
+   },
+   "options_reload": {
+      "message": "Recarregar"
+   },
+   "options_replace": {
+      "message": "Mostra \"Substitueix el tipus de lletra per l'element del menú contextual\""
+   },
+   "options_reset": {
+      "message": "Restabliment de fàbrica"
+   },
+   "options_save": {
+      "message": "Desa les opcions"
+   },
+   "options_selection": {
+      "message": "Mostra l'element del menú contextual \"Analitza la selecció\""
+   },
+   "options_support": {
+      "message": "Desenvolupament de suport"
+   },
+   "window_class": {
+      "message": "Classe d'elements:"
+   },
+   "window_color": {
+      "message": "color"
+   },
+   "window_decoration": {
+      "message": "Decoració / Transformació"
+   },
+   "window_element": {
+      "message": "Detalls de l'element"
+   },
+   "window_font": {
+      "message": "Font"
+   },
+   "window_id": {
+      "message": "Identificador de l'element:"
+   },
+   "window_inspect": {
+      "message": "Inspecció:"
+   },
+   "window_rendered": {
+      "message": "Tipus de lletra:"
+   },
+   "window_spacing": {
+      "message": "Espai"
+   },
+   "window_title": {
+      "message": "Inspector :: Cercador de fonts"
+   },
+   "window_type": {
+      "message": "Tipus d'element:"
+   }
+}

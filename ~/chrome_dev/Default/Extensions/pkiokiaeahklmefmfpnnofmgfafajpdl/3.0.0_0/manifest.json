@@ -1,0 +1,36 @@
+{
+   "action": {
+      "default_icon": "icon-512.png"
+   },
+   "background": {
+      "service_worker": "js/background.js",
+      "type": "module"
+   },
+   "container": [ "GOOGLE_DRIVE" ],
+   "default_locale": "en",
+   "description": "__MSG_app_description__",
+   "homepage_url": "https://findfont.freeonlineapps.net",
+   "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16.png",
+      "192": "icon-192.png",
+      "256": "icon-256.png",
+      "32": "icon-32.png",
+      "48": "icon-48.png",
+      "512": "icon-512.png",
+      "64": "icon-64.png",
+      "72": "icon-72.png",
+      "96": "icon-96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhid7V+zR2OdbjfvZ72Uq2GqpKg/CfsQlp6W4JQP1ocwnSHRRnHWGvw6AIZ7oLUeDyz1i0F4x6G7MP0f3CmS0o9lBSVvatWt2WvlniaNSdSTbczqiTrfzD25+EVhpQ9QFaYHbY/JDiWgG7GHYeGtUU55pqKzMqxpMWPel24hDpJ0G66mCj46WVw9BxmUgHboMGkq6oCvCt1FkGrO1Vev7NAgNU+6UxpMli9+W5wtG9jjyxqerf/8bxZoVNUVCo4Tn9AeXchjsh7FLYSPKWa4kv2lF0mvHbEsWV0qFndoGCflBYeSIkDgGE2CNvN2Ly9bVDJC/S5PXP7RjULP2OYEfUQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_app_name__",
+   "offline_enabled": true,
+   "permissions": [ "activeTab", "scripting", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.0",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "data/inject/AND-Regular.otf", "data/window/index.html" ]
+   } ]
+}

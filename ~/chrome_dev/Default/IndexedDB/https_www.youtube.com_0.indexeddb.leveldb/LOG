@@ -1,0 +1,6 @@
+2024/08/09-23:18:11.706 8703 Creating DB /Users/sachinbabu.dev/Desktop/my-react-app/~/chrome_dev/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2024/08/09-23:18:11.708 8703 Reusing MANIFEST /Users/sachinbabu.dev/Desktop/my-react-app/~/chrome_dev/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/09-23:19:35.264 a707 Level-0 table #5: started
+2024/08/09-23:19:35.267 a707 Level-0 table #5: 246703 bytes OK
+2024/08/09-23:19:35.269 a707 Delete type=0 #3
+2024/08/09-23:19:35.270 a707 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

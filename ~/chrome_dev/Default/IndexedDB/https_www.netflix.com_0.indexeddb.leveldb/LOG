@@ -1,0 +1,15 @@
+2024/08/09-22:54:50.885 a707 Reusing MANIFEST /Users/sachinbabu.dev/Desktop/my-react-app/~/chrome_dev/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/09-22:54:50.885 a707 Recovering log #3
+2024/08/09-22:54:50.887 a707 Reusing old log /Users/sachinbabu.dev/Desktop/my-react-app/~/chrome_dev/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000003.log 
+2024/08/09-23:41:29.743 8703 Level-0 table #5: started
+2024/08/09-23:41:29.777 8703 Level-0 table #5: 2452877 bytes OK
+2024/08/09-23:41:29.783 8703 Delete type=0 #3
+2024/08/11-21:55:58.498 8703 Level-0 table #7: started
+2024/08/11-21:55:58.532 8703 Level-0 table #7: 1694146 bytes OK
+2024/08/11-21:55:58.534 8703 Delete type=0 #4
+2024/08/11-23:20:58.469 a707 Compacting 1@1 + 1@2 files
+2024/08/11-23:20:58.486 a707 Generated table #8@1: 53 keys, 9332 bytes
+2024/08/11-23:20:58.486 a707 Compacted 1@1 + 1@2 files => 9332 bytes
+2024/08/11-23:20:58.489 a707 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/11-23:20:58.489 a707 Delete type=2 #7
+2024/08/11-23:20:58.489 a707 Delete type=2 #5
